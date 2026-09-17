@@ -1,0 +1,1839 @@
+State,Start_Year,Source,Annual Generation (In MU)
+Andaman and Nicobar Islands,2015,small-hydro,12.46
+Andaman and Nicobar Islands,2015,solar,12.57
+Andaman and Nicobar Islands,2016,small-hydro,13.86
+Andaman and Nicobar Islands,2016,solar,12.82
+Andaman and Nicobar Islands,2017,small-hydro,12.77
+Andaman and Nicobar Islands,2017,solar,13.69
+Andaman and Nicobar Islands,2018,small-hydro,16.58
+Andaman and Nicobar Islands,2018,solar,14.61
+Andaman and Nicobar Islands,2019,small-hydro,5.7
+Andaman and Nicobar Islands,2019,solar,11.6
+Andaman and Nicobar Islands,2020,small-hydro,14.69
+Andaman and Nicobar Islands,2020,solar,24.82
+Andaman and Nicobar Islands,2021,small-hydro,13.27
+Andaman and Nicobar Islands,2021,solar,21.51
+Andaman and Nicobar Islands,2022,bio-power,0.03
+Andaman and Nicobar Islands,2022,small-hydro,13.94
+Andaman and Nicobar Islands,2022,solar,23.94
+Andaman and Nicobar Islands,2023,small-hydro,12.0
+Andaman and Nicobar Islands,2023,solar,27.5
+Andaman and Nicobar Islands,2024,bio-power,0.0
+Andaman and Nicobar Islands,2024,small-hydro,14.4
+Andaman and Nicobar Islands,2024,solar,24.59
+Andaman and Nicobar Islands,2025,bio-power,0.0
+Andaman and Nicobar Islands,2025,small-hydro,5.19
+Andaman and Nicobar Islands,2025,solar,5.23
+Andhra Pradesh,2015,bio-power,707.8
+Andhra Pradesh,2015,coal,50303.45
+Andhra Pradesh,2015,hydro,1904.0
+Andhra Pradesh,2015,oil-gas,5535.51
+Andhra Pradesh,2015,small-hydro,103.09
+Andhra Pradesh,2015,solar,282.67
+Andhra Pradesh,2015,wind,2013.03
+Andhra Pradesh,2016,bio-power,526.86
+Andhra Pradesh,2016,coal,56958.54
+Andhra Pradesh,2016,hydro,1824.0
+Andhra Pradesh,2016,oil-gas,5921.599999999999
+Andhra Pradesh,2016,small-hydro,168.75
+Andhra Pradesh,2016,solar,1937.88
+Andhra Pradesh,2016,wind,3187.85
+Andhra Pradesh,2017,bio-power,402.7
+Andhra Pradesh,2017,coal,52349.81
+Andhra Pradesh,2017,hydro,2269.0
+Andhra Pradesh,2017,oil-gas,3490.26
+Andhra Pradesh,2017,small-hydro,181.69
+Andhra Pradesh,2017,solar,4068.93
+Andhra Pradesh,2017,wind,6354.12
+Andhra Pradesh,2018,bio-power,521.58
+Andhra Pradesh,2018,coal,55921.74
+Andhra Pradesh,2018,hydro,2272.94
+Andhra Pradesh,2018,oil-gas,4750.71
+Andhra Pradesh,2018,small-hydro,193.11
+Andhra Pradesh,2018,solar,4963.96
+Andhra Pradesh,2018,wind,8869.85
+Andhra Pradesh,2019,bio-power,213.27
+Andhra Pradesh,2019,coal,55367.83
+Andhra Pradesh,2019,hydro,3013.4300000000003
+Andhra Pradesh,2019,oil-gas,3013.62
+Andhra Pradesh,2019,small-hydro,298.19
+Andhra Pradesh,2019,solar,5855.11
+Andhra Pradesh,2019,wind,7626.64
+Andhra Pradesh,2020,bio-power,268.75
+Andhra Pradesh,2020,coal,45699.88
+Andhra Pradesh,2020,hydro,3339.4399999999996
+Andhra Pradesh,2020,oil-gas,3323.24
+Andhra Pradesh,2020,small-hydro,351.23
+Andhra Pradesh,2020,solar,6956.1
+Andhra Pradesh,2020,wind,6557.74
+Andhra Pradesh,2021,bio-power,311.43
+Andhra Pradesh,2021,coal,53229.89
+Andhra Pradesh,2021,hydro,3113.83
+Andhra Pradesh,2021,oil-gas,2094.33
+Andhra Pradesh,2021,small-hydro,384.08
+Andhra Pradesh,2021,solar,7832.51
+Andhra Pradesh,2021,wind,7134.58
+Andhra Pradesh,2022,bio-power,433.83
+Andhra Pradesh,2022,coal,60872.22
+Andhra Pradesh,2022,hydro,3747.58
+Andhra Pradesh,2022,oil-gas,610.0
+Andhra Pradesh,2022,small-hydro,410.9
+Andhra Pradesh,2022,solar,8140.72
+Andhra Pradesh,2022,wind,7426.46
+Andhra Pradesh,2023,bio-power,393.35
+Andhra Pradesh,2023,coal,70627.33
+Andhra Pradesh,2023,hydro,1373.19
+Andhra Pradesh,2023,oil-gas,2.41
+Andhra Pradesh,2023,small-hydro,127.1
+Andhra Pradesh,2023,solar,8300.03
+Andhra Pradesh,2023,wind,8644.0
+Andhra Pradesh,2024,bio-power,379.35
+Andhra Pradesh,2024,coal,72730.1
+Andhra Pradesh,2024,hydro,3303.0699999999997
+Andhra Pradesh,2024,oil-gas,34.04
+Andhra Pradesh,2024,small-hydro,294.36
+Andhra Pradesh,2024,solar,7993.48
+Andhra Pradesh,2024,wind,7235.04
+Andhra Pradesh,2025,bio-power,128.5
+Andhra Pradesh,2025,coal,30851.88
+Andhra Pradesh,2025,hydro,2359.8
+Andhra Pradesh,2025,oil-gas,237.95
+Andhra Pradesh,2025,small-hydro,74.07
+Andhra Pradesh,2025,solar,3422.04
+Andhra Pradesh,2025,wind,5022.96
+Arunachal Pradesh,2015,hydro,1280.0
+Arunachal Pradesh,2015,small-hydro,18.23
+Arunachal Pradesh,2015,solar,0.24
+Arunachal Pradesh,2016,hydro,1249.0
+Arunachal Pradesh,2016,small-hydro,16.48
+Arunachal Pradesh,2016,solar,0.11
+Arunachal Pradesh,2017,hydro,1417.0
+Arunachal Pradesh,2017,small-hydro,0.47
+Arunachal Pradesh,2017,solar,0.23
+Arunachal Pradesh,2018,hydro,1399.01
+Arunachal Pradesh,2018,small-hydro,0.55
+Arunachal Pradesh,2018,solar,1.21
+Arunachal Pradesh,2019,hydro,1786.46
+Arunachal Pradesh,2019,small-hydro,0.64
+Arunachal Pradesh,2019,solar,1.6
+Arunachal Pradesh,2020,hydro,3451.34
+Arunachal Pradesh,2020,small-hydro,0.55
+Arunachal Pradesh,2020,solar,1.54
+Arunachal Pradesh,2021,hydro,4161.3
+Arunachal Pradesh,2021,small-hydro,0.39
+Arunachal Pradesh,2021,solar,1.72
+Arunachal Pradesh,2022,hydro,4820.9400000000005
+Arunachal Pradesh,2022,small-hydro,2.53
+Arunachal Pradesh,2022,solar,22.27
+Arunachal Pradesh,2023,hydro,4278.18
+Arunachal Pradesh,2023,small-hydro,0.66
+Arunachal Pradesh,2023,solar,1.89
+Arunachal Pradesh,2024,bio-power,0.0
+Arunachal Pradesh,2024,hydro,4205.16
+Arunachal Pradesh,2024,small-hydro,0.58
+Arunachal Pradesh,2024,solar,1.3
+Arunachal Pradesh,2025,bio-power,0.0
+Arunachal Pradesh,2025,hydro,2361.75
+Arunachal Pradesh,2025,small-hydro,0.18
+Arunachal Pradesh,2025,solar,1.47
+Assam,2015,coal,106.14
+Assam,2015,hydro,1366.0
+Assam,2015,oil-gas,3214.3199999999997
+Assam,2015,small-hydro,59.33
+Assam,2015,solar,31.59
+Assam,2016,coal,1626.15
+Assam,2016,hydro,1682.0
+Assam,2016,oil-gas,2816.2400000000002
+Assam,2016,small-hydro,83.42
+Assam,2016,solar,79.86
+Assam,2017,coal,1698.09
+Assam,2017,hydro,1919.0
+Assam,2017,oil-gas,2582.14
+Assam,2017,small-hydro,16.13
+Assam,2017,solar,8.36
+Assam,2018,coal,2818.58
+Assam,2018,hydro,1694.36
+Assam,2018,oil-gas,2706.41
+Assam,2018,small-hydro,46.03
+Assam,2018,solar,6.66
+Assam,2019,coal,3820.8
+Assam,2019,hydro,1291.6799999999998
+Assam,2019,oil-gas,2808.73
+Assam,2019,small-hydro,52.62
+Assam,2019,solar,6.14
+Assam,2020,bio-power,0.0
+Assam,2020,coal,2977.75
+Assam,2020,hydro,270.87
+Assam,2020,oil-gas,2721.4
+Assam,2020,small-hydro,38.15
+Assam,2020,solar,13.37
+Assam,2021,bio-power,0.0
+Assam,2021,coal,4201.4
+Assam,2021,hydro,676.24
+Assam,2021,oil-gas,3399.11
+Assam,2021,small-hydro,40.47
+Assam,2021,solar,81.64
+Assam,2022,bio-power,0.63
+Assam,2022,coal,5023.63
+Assam,2022,hydro,481.6
+Assam,2022,oil-gas,3366.84
+Assam,2022,small-hydro,62.66
+Assam,2022,solar,216.35
+Assam,2023,bio-power,0.75
+Assam,2023,coal,5049.92
+Assam,2023,hydro,614.7
+Assam,2023,oil-gas,3375.27
+Assam,2023,small-hydro,64.2
+Assam,2023,solar,316.31
+Assam,2024,bio-power,0.3
+Assam,2024,coal,4785.389999999999
+Assam,2024,hydro,998.75
+Assam,2024,oil-gas,3407.99
+Assam,2024,small-hydro,208.55
+Assam,2024,solar,305.52
+Assam,2025,bio-power,0.16
+Assam,2025,coal,1861.05
+Assam,2025,hydro,625.54
+Assam,2025,oil-gas,1234.22
+Assam,2025,small-hydro,55.5
+Assam,2025,solar,123.02
+Bihar,2015,bio-power,104.84
+Bihar,2015,coal,20596.88
+Bihar,2015,small-hydro,53.87
+Bihar,2015,solar,6.39
+Bihar,2016,bio-power,159.25
+Bihar,2016,coal,24121.43
+Bihar,2016,small-hydro,21.63
+Bihar,2016,solar,108.66
+Bihar,2017,bio-power,155.77
+Bihar,2017,coal,25885.14
+Bihar,2017,small-hydro,7.95
+Bihar,2017,solar,145.34
+Bihar,2018,bio-power,268.22
+Bihar,2018,coal,32075.78
+Bihar,2018,small-hydro,27.75
+Bihar,2018,solar,179.89
+Bihar,2018,wind,12.28
+Bihar,2019,bio-power,179.54
+Bihar,2019,coal,33542.42
+Bihar,2019,small-hydro,18.98
+Bihar,2019,solar,160.16
+Bihar,2020,bio-power,22.78
+Bihar,2020,coal,33812.39
+Bihar,2020,small-hydro,43.2
+Bihar,2020,solar,160.63
+Bihar,2021,bio-power,67.99
+Bihar,2021,coal,43623.44
+Bihar,2021,small-hydro,8.77
+Bihar,2021,solar,163.08
+Bihar,2022,bio-power,106.68
+Bihar,2022,coal,55117.49
+Bihar,2022,small-hydro,12.62
+Bihar,2022,solar,169.53
+Bihar,2023,bio-power,140.98
+Bihar,2023,coal,58319.78
+Bihar,2023,small-hydro,5.92
+Bihar,2023,solar,195.19
+Bihar,2024,bio-power,104.7
+Bihar,2024,coal,60698.81
+Bihar,2024,small-hydro,14.54
+Bihar,2024,solar,325.86
+Bihar,2025,bio-power,1.16
+Bihar,2025,coal,24139.010000000002
+Bihar,2025,small-hydro,4.71
+Bihar,2025,solar,134.83
+Chandigarh,2015,solar,3.4
+Chandigarh,2016,solar,4.17
+Chandigarh,2017,solar,7.87
+Chandigarh,2018,solar,13.51
+Chandigarh,2019,solar,13.33
+Chandigarh,2020,solar,10.16
+Chandigarh,2021,solar,14.19
+Chandigarh,2022,solar,12.61
+Chandigarh,2023,solar,11.7
+Chandigarh,2024,bio-power,0.0
+Chandigarh,2024,small-hydro,0.0
+Chandigarh,2024,solar,8.79
+Chandigarh,2025,bio-power,0.0
+Chandigarh,2025,solar,2.35
+Chhattisgarh,2015,bio-power,1119.33
+Chhattisgarh,2015,coal,87049.55
+Chhattisgarh,2015,hydro,323.0
+Chhattisgarh,2015,small-hydro,30.43
+Chhattisgarh,2015,solar,52.7
+Chhattisgarh,2016,bio-power,1281.12
+Chhattisgarh,2016,coal,103576.77
+Chhattisgarh,2016,hydro,154.0
+Chhattisgarh,2016,small-hydro,44.23
+Chhattisgarh,2016,solar,110.93
+Chhattisgarh,2016,wind,9.97
+Chhattisgarh,2017,bio-power,909.72
+Chhattisgarh,2017,coal,100204.23
+Chhattisgarh,2017,hydro,178.0
+Chhattisgarh,2017,small-hydro,22.94
+Chhattisgarh,2017,solar,136.54
+Chhattisgarh,2018,bio-power,529.9
+Chhattisgarh,2018,coal,114997.19
+Chhattisgarh,2018,hydro,243.08
+Chhattisgarh,2018,small-hydro,80.08
+Chhattisgarh,2018,solar,335.14
+Chhattisgarh,2019,bio-power,679.7
+Chhattisgarh,2019,coal,113444.25
+Chhattisgarh,2019,hydro,236.79
+Chhattisgarh,2019,small-hydro,101.75
+Chhattisgarh,2019,solar,326.42
+Chhattisgarh,2020,bio-power,1117.57
+Chhattisgarh,2020,coal,134659.98
+Chhattisgarh,2020,hydro,419.19
+Chhattisgarh,2020,small-hydro,145.52
+Chhattisgarh,2020,solar,370.8
+Chhattisgarh,2021,bio-power,1315.98
+Chhattisgarh,2021,coal,140524.04
+Chhattisgarh,2021,hydro,404.13
+Chhattisgarh,2021,small-hydro,185.66
+Chhattisgarh,2021,solar,436.56
+Chhattisgarh,2022,bio-power,1211.71
+Chhattisgarh,2022,coal,142489.58
+Chhattisgarh,2022,hydro,237.37
+Chhattisgarh,2022,small-hydro,155.93
+Chhattisgarh,2022,solar,635.42
+Chhattisgarh,2023,bio-power,1388.15
+Chhattisgarh,2023,coal,162372.5
+Chhattisgarh,2023,hydro,321.77
+Chhattisgarh,2023,small-hydro,145.54
+Chhattisgarh,2023,solar,943.75
+Chhattisgarh,2024,bio-power,1563.31
+Chhattisgarh,2024,coal,166433.85
+Chhattisgarh,2024,hydro,419.42
+Chhattisgarh,2024,small-hydro,139.34
+Chhattisgarh,2024,solar,1523.27
+Chhattisgarh,2025,bio-power,494.02
+Chhattisgarh,2025,coal,69143.43
+Chhattisgarh,2025,hydro,98.09
+Chhattisgarh,2025,small-hydro,62.38
+Chhattisgarh,2025,solar,660.14
+Dadra and Nagar Haveli and Daman and Diu,2015,solar,4.75
+Dadra and Nagar Haveli and Daman and Diu,2016,solar,15.72
+Dadra and Nagar Haveli and Daman and Diu,2017,solar,23.76
+Dadra and Nagar Haveli and Daman and Diu,2018,solar,24.7
+Dadra and Nagar Haveli and Daman and Diu,2019,solar,28.02
+Dadra and Nagar Haveli and Daman and Diu,2020,bio-power,10.53
+Dadra and Nagar Haveli and Daman and Diu,2020,solar,41.48
+Dadra and Nagar Haveli and Daman and Diu,2021,bio-power,12.32
+Dadra and Nagar Haveli and Daman and Diu,2021,solar,84.51
+Dadra and Nagar Haveli and Daman and Diu,2022,bio-power,3.22
+Dadra and Nagar Haveli and Daman and Diu,2022,solar,27.41
+Dadra and Nagar Haveli and Daman and Diu,2023,bio-power,13.12
+Dadra and Nagar Haveli and Daman and Diu,2023,solar,15.75
+Dadra and Nagar Haveli and Daman and Diu,2024,bio-power,12.76
+Dadra and Nagar Haveli and Daman and Diu,2024,small-hydro,0.0
+Dadra and Nagar Haveli and Daman and Diu,2024,solar,15.87
+Dadra and Nagar Haveli and Daman and Diu,2025,bio-power,4.24
+Dadra and Nagar Haveli and Daman and Diu,2025,solar,6.65
+Delhi,2015,bio-power,124.88
+Delhi,2015,coal,2260.99
+Delhi,2015,oil-gas,3918.06
+Delhi,2015,solar,4.12
+Delhi,2016,bio-power,139.07
+Delhi,2016,coal,1694.69
+Delhi,2016,oil-gas,4548.41
+Delhi,2016,solar,5.68
+Delhi,2017,bio-power,227.68
+Delhi,2017,coal,1273.71
+Delhi,2017,oil-gas,5491.7300000000005
+Delhi,2017,solar,13.41
+Delhi,2018,bio-power,276.81
+Delhi,2018,coal,1392.52
+Delhi,2018,oil-gas,5735.71
+Delhi,2018,solar,10.84
+Delhi,2019,bio-power,287.39
+Delhi,2019,oil-gas,6015.11
+Delhi,2019,solar,136.3
+Delhi,2020,bio-power,236.71
+Delhi,2020,oil-gas,5304.01
+Delhi,2020,solar,189.99
+Delhi,2021,bio-power,232.9
+Delhi,2021,oil-gas,4948.57
+Delhi,2021,solar,225.84
+Delhi,2022,bio-power,294.09
+Delhi,2022,oil-gas,3784.2999999999997
+Delhi,2022,solar,236.11
+Delhi,2023,bio-power,522.28
+Delhi,2023,oil-gas,3755.14
+Delhi,2023,solar,206.53
+Delhi,2024,bio-power,542.41
+Delhi,2024,oil-gas,3878.0099999999998
+Delhi,2024,small-hydro,0.0
+Delhi,2024,solar,206.53
+Delhi,2025,bio-power,176.69
+Delhi,2025,oil-gas,1780.12
+Delhi,2025,solar,68.84
+Goa,2015,oil-gas,0.0
+Goa,2015,small-hydro,0.0
+Goa,2015,solar,0.0
+Goa,2016,oil-gas,0.0
+Goa,2016,small-hydro,0.0
+Goa,2016,solar,0.0
+Goa,2017,oil-gas,0.0
+Goa,2017,small-hydro,0.0
+Goa,2017,solar,0.0
+Goa,2018,oil-gas,0.0
+Goa,2018,small-hydro,0.0
+Goa,2018,solar,0.0
+Goa,2019,bio-power,0.0
+Goa,2019,oil-gas,0.0
+Goa,2019,small-hydro,0.0
+Goa,2019,solar,0.82
+Goa,2020,bio-power,0.0
+Goa,2020,oil-gas,0.0
+Goa,2020,small-hydro,0.0
+Goa,2020,solar,1.46
+Goa,2021,bio-power,0.73
+Goa,2021,oil-gas,0.0
+Goa,2021,small-hydro,0.0
+Goa,2021,solar,15.93
+Goa,2022,bio-power,5.09
+Goa,2022,oil-gas,0.0
+Goa,2022,small-hydro,0.0
+Goa,2022,solar,14.87
+Goa,2023,bio-power,7.96
+Goa,2023,oil-gas,0.0
+Goa,2023,small-hydro,0.0
+Goa,2023,solar,59.99
+Goa,2024,bio-power,8.14
+Goa,2024,oil-gas,0.0
+Goa,2024,small-hydro,0.0
+Goa,2024,solar,57.11
+Goa,2025,bio-power,2.71
+Goa,2025,small-hydro,0.0
+Goa,2025,solar,19.04
+Gujarat,2015,bio-power,23.28
+Gujarat,2015,coal,86515.37
+Gujarat,2015,hydro,2953.0
+Gujarat,2015,nuclear,2031.27
+Gujarat,2015,oil-gas,12555.98
+Gujarat,2015,small-hydro,36.27
+Gujarat,2015,solar,1497.6
+Gujarat,2015,wind,6446.58
+Gujarat,2016,bio-power,12.16
+Gujarat,2016,coal,84178.33
+Gujarat,2016,hydro,3944.0
+Gujarat,2016,nuclear,0.0
+Gujarat,2016,oil-gas,10416.92
+Gujarat,2016,small-hydro,27.54
+Gujarat,2016,solar,1738.28
+Gujarat,2016,wind,7720.01
+Gujarat,2017,bio-power,32.65
+Gujarat,2017,coal,73987.62
+Gujarat,2017,hydro,1553.0
+Gujarat,2017,nuclear,0.0
+Gujarat,2017,oil-gas,13924.0
+Gujarat,2017,small-hydro,42.93
+Gujarat,2017,solar,2096.99
+Gujarat,2017,wind,9767.79
+Gujarat,2018,bio-power,80.37
+Gujarat,2018,coal,81446.17
+Gujarat,2018,hydro,1042.81
+Gujarat,2018,nuclear,999.89
+Gujarat,2018,oil-gas,12796.73
+Gujarat,2018,small-hydro,86.19
+Gujarat,2018,solar,2478.73
+Gujarat,2018,wind,11527.05
+Gujarat,2019,bio-power,141.75
+Gujarat,2019,coal,82918.44
+Gujarat,2019,hydro,5414.68
+Gujarat,2019,nuclear,3428.73
+Gujarat,2019,oil-gas,13515.42
+Gujarat,2019,small-hydro,194.8
+Gujarat,2019,solar,3631.86
+Gujarat,2019,wind,13748.53
+Gujarat,2020,bio-power,73.13
+Gujarat,2020,coal,76875.96
+Gujarat,2020,hydro,4233.34
+Gujarat,2020,nuclear,3713.2
+Gujarat,2020,oil-gas,18877.22
+Gujarat,2020,small-hydro,211.94
+Gujarat,2020,solar,4633.81
+Gujarat,2020,wind,13058.13
+Gujarat,2021,bio-power,18.17
+Gujarat,2021,coal,49764.62
+Gujarat,2021,hydro,2621.5
+Gujarat,2021,nuclear,3503.5200000000004
+Gujarat,2021,oil-gas,7353.85
+Gujarat,2021,small-hydro,192.11
+Gujarat,2021,solar,6774.5
+Gujarat,2021,wind,17854.77
+Gujarat,2022,bio-power,8.0
+Gujarat,2022,coal,53174.21
+Gujarat,2022,hydro,6133.14
+Gujarat,2022,nuclear,3639.0699999999997
+Gujarat,2022,oil-gas,2158.69
+Gujarat,2022,small-hydro,213.09
+Gujarat,2022,solar,10335.32
+Gujarat,2022,wind,19206.21
+Gujarat,2023,bio-power,2.13
+Gujarat,2023,coal,76598.49
+Gujarat,2023,hydro,4556.33
+Gujarat,2023,nuclear,7546.74
+Gujarat,2023,oil-gas,8185.06
+Gujarat,2023,small-hydro,217.68
+Gujarat,2023,solar,13468.91
+Gujarat,2023,wind,24794.5
+Gujarat,2024,bio-power,107.62
+Gujarat,2024,coal,85024.14
+Gujarat,2024,hydro,6028.52
+Gujarat,2024,nuclear,12299.67
+Gujarat,2024,oil-gas,8411.7
+Gujarat,2024,small-hydro,205.98
+Gujarat,2024,solar,20219.48
+Gujarat,2024,wind,25440.9
+Gujarat,2025,bio-power,28.31
+Gujarat,2025,coal,31599.7
+Gujarat,2025,hydro,2576.08
+Gujarat,2025,nuclear,4535.05
+Gujarat,2025,oil-gas,3837.7000000000003
+Gujarat,2025,small-hydro,41.73
+Gujarat,2025,solar,9702.57
+Gujarat,2025,wind,18145.81
+Haryana,2015,bio-power,235.56
+Haryana,2015,coal,20749.55
+Haryana,2015,oil-gas,1100.64
+Haryana,2015,small-hydro,992.64
+Haryana,2015,solar,17.37
+Haryana,2016,bio-power,174.08
+Haryana,2016,coal,17523.82
+Haryana,2016,oil-gas,1034.05
+Haryana,2016,small-hydro,291.86
+Haryana,2016,solar,24.26
+Haryana,2017,bio-power,285.76
+Haryana,2017,coal,23226.59
+Haryana,2017,oil-gas,837.38
+Haryana,2017,small-hydro,210.29
+Haryana,2017,solar,72.8
+Haryana,2018,bio-power,339.05
+Haryana,2018,coal,24696.35
+Haryana,2018,oil-gas,597.09
+Haryana,2018,small-hydro,250.83
+Haryana,2018,solar,74.41
+Haryana,2019,bio-power,281.47
+Haryana,2019,coal,16470.97
+Haryana,2019,oil-gas,555.16
+Haryana,2019,small-hydro,326.89
+Haryana,2019,solar,125.14
+Haryana,2020,bio-power,321.22
+Haryana,2020,coal,13899.91
+Haryana,2020,oil-gas,901.8
+Haryana,2020,small-hydro,276.58
+Haryana,2020,solar,162.95
+Haryana,2021,bio-power,292.44
+Haryana,2021,coal,22794.16
+Haryana,2021,oil-gas,120.3
+Haryana,2021,small-hydro,270.13
+Haryana,2021,solar,572.85
+Haryana,2022,bio-power,622.63
+Haryana,2022,coal,32126.25
+Haryana,2022,oil-gas,2.59
+Haryana,2022,small-hydro,241.9
+Haryana,2022,solar,555.2
+Haryana,2023,bio-power,436.54
+Haryana,2023,coal,27945.39
+Haryana,2023,oil-gas,137.28
+Haryana,2023,small-hydro,222.05
+Haryana,2023,solar,992.91
+Haryana,2024,bio-power,452.96
+Haryana,2024,coal,30229.42
+Haryana,2024,oil-gas,215.37
+Haryana,2024,small-hydro,314.64
+Haryana,2024,solar,1470.02
+Haryana,2025,bio-power,164.67
+Haryana,2025,coal,11973.16
+Haryana,2025,oil-gas,134.26
+Haryana,2025,small-hydro,78.5
+Haryana,2025,solar,506.69
+Himachal Pradesh,2015,bio-power,0.0
+Himachal Pradesh,2015,hydro,38589.0
+Himachal Pradesh,2015,small-hydro,1921.77
+Himachal Pradesh,2015,solar,0.0
+Himachal Pradesh,2016,bio-power,0.0
+Himachal Pradesh,2016,hydro,37049.0
+Himachal Pradesh,2016,small-hydro,2110.71
+Himachal Pradesh,2016,solar,0.0
+Himachal Pradesh,2017,bio-power,0.0
+Himachal Pradesh,2017,hydro,38784.0
+Himachal Pradesh,2017,small-hydro,1903.05
+Himachal Pradesh,2017,solar,0.0
+Himachal Pradesh,2018,bio-power,0.0
+Himachal Pradesh,2018,hydro,35908.57
+Himachal Pradesh,2018,small-hydro,2287.92
+Himachal Pradesh,2018,solar,0.0
+Himachal Pradesh,2019,bio-power,0.0
+Himachal Pradesh,2019,hydro,40834.88
+Himachal Pradesh,2019,small-hydro,2155.58
+Himachal Pradesh,2019,solar,11.66
+Himachal Pradesh,2020,bio-power,0.0
+Himachal Pradesh,2020,hydro,37473.479999999996
+Himachal Pradesh,2020,small-hydro,2123.78
+Himachal Pradesh,2020,solar,36.52
+Himachal Pradesh,2021,bio-power,0.0
+Himachal Pradesh,2021,hydro,36459.63
+Himachal Pradesh,2021,small-hydro,1999.48
+Himachal Pradesh,2021,solar,44.29
+Himachal Pradesh,2022,bio-power,0.0
+Himachal Pradesh,2022,hydro,38666.99
+Himachal Pradesh,2022,small-hydro,2854.19
+Himachal Pradesh,2022,solar,58.76
+Himachal Pradesh,2023,bio-power,0.0
+Himachal Pradesh,2023,hydro,36365.85
+Himachal Pradesh,2023,small-hydro,2526.98
+Himachal Pradesh,2023,solar,59.54
+Himachal Pradesh,2024,bio-power,0.0
+Himachal Pradesh,2024,hydro,39368.01
+Himachal Pradesh,2024,small-hydro,3040.9
+Himachal Pradesh,2024,solar,107.24
+Himachal Pradesh,2025,bio-power,0.0
+Himachal Pradesh,2025,hydro,25975.64
+Himachal Pradesh,2025,small-hydro,1202.25
+Himachal Pradesh,2025,solar,82.22
+Jammu and Kashmir,2015,hydro,15008.0
+Jammu and Kashmir,2015,oil-gas,0.0
+Jammu and Kashmir,2015,small-hydro,304.78
+Jammu and Kashmir,2015,solar,0.0
+Jammu and Kashmir,2016,hydro,15239.0
+Jammu and Kashmir,2016,oil-gas,0.0
+Jammu and Kashmir,2016,small-hydro,391.86
+Jammu and Kashmir,2016,solar,0.0
+Jammu and Kashmir,2017,hydro,14793.0
+Jammu and Kashmir,2017,oil-gas,0.0
+Jammu and Kashmir,2017,small-hydro,324.37
+Jammu and Kashmir,2017,solar,0.0
+Jammu and Kashmir,2018,hydro,16387.07
+Jammu and Kashmir,2018,oil-gas,0.0
+Jammu and Kashmir,2018,small-hydro,312.19
+Jammu and Kashmir,2018,solar,0.0
+Jammu and Kashmir,2019,hydro,18094.12
+Jammu and Kashmir,2019,oil-gas,0.0
+Jammu and Kashmir,2019,small-hydro,443.13
+Jammu and Kashmir,2019,solar,0.0
+Jammu and Kashmir,2020,hydro,17002.67
+Jammu and Kashmir,2020,oil-gas,0.0
+Jammu and Kashmir,2020,small-hydro,429.88
+Jammu and Kashmir,2020,solar,9.42
+Jammu and Kashmir,2021,hydro,17074.01
+Jammu and Kashmir,2021,oil-gas,0.0
+Jammu and Kashmir,2021,small-hydro,414.11
+Jammu and Kashmir,2021,solar,1.71
+Jammu and Kashmir,2022,hydro,16777.42
+Jammu and Kashmir,2022,oil-gas,0.0
+Jammu and Kashmir,2022,small-hydro,393.19
+Jammu and Kashmir,2022,solar,0.0
+Jammu and Kashmir,2023,hydro,15874.24
+Jammu and Kashmir,2023,oil-gas,0.0
+Jammu and Kashmir,2023,small-hydro,408.69
+Jammu and Kashmir,2023,solar,0.0
+Jammu and Kashmir,2024,bio-power,0.0
+Jammu and Kashmir,2024,hydro,15200.65
+Jammu and Kashmir,2024,oil-gas,0.0
+Jammu and Kashmir,2024,small-hydro,395.17
+Jammu and Kashmir,2024,solar,0.0
+Jammu and Kashmir,2025,bio-power,0.0
+Jammu and Kashmir,2025,hydro,9862.35
+Jammu and Kashmir,2025,small-hydro,232.06
+Jammu and Kashmir,2025,solar,0.0
+Jharkhand,2015,bio-power,0.0
+Jharkhand,2015,coal,25747.24
+Jharkhand,2015,hydro,120.0
+Jharkhand,2015,small-hydro,0.0
+Jharkhand,2015,solar,19.78
+Jharkhand,2016,bio-power,0.0
+Jharkhand,2016,coal,25422.11
+Jharkhand,2016,hydro,164.0
+Jharkhand,2016,small-hydro,0.0
+Jharkhand,2016,solar,36.92
+Jharkhand,2017,bio-power,0.0
+Jharkhand,2017,coal,24637.19
+Jharkhand,2017,hydro,332.0
+Jharkhand,2017,small-hydro,0.0
+Jharkhand,2017,solar,19.47
+Jharkhand,2018,bio-power,0.0
+Jharkhand,2018,coal,26968.01
+Jharkhand,2018,hydro,180.98000000000002
+Jharkhand,2018,small-hydro,0.0
+Jharkhand,2018,solar,19.14
+Jharkhand,2019,bio-power,0.0
+Jharkhand,2019,coal,25423.22
+Jharkhand,2019,hydro,150.96
+Jharkhand,2019,small-hydro,5.43
+Jharkhand,2019,solar,17.47
+Jharkhand,2020,bio-power,0.0
+Jharkhand,2020,coal,27275.03
+Jharkhand,2020,hydro,223.09
+Jharkhand,2020,small-hydro,1.13
+Jharkhand,2020,solar,17.16
+Jharkhand,2021,bio-power,0.0
+Jharkhand,2021,coal,28941.46
+Jharkhand,2021,hydro,547.95
+Jharkhand,2021,small-hydro,10.51
+Jharkhand,2021,solar,18.21
+Jharkhand,2022,bio-power,60.95
+Jharkhand,2022,coal,30483.33
+Jharkhand,2022,hydro,305.47
+Jharkhand,2022,small-hydro,0.0
+Jharkhand,2022,solar,19.7
+Jharkhand,2023,bio-power,0.0
+Jharkhand,2023,coal,35719.11
+Jharkhand,2023,hydro,196.8
+Jharkhand,2023,small-hydro,2.74
+Jharkhand,2023,solar,17.64
+Jharkhand,2024,bio-power,0.0
+Jharkhand,2024,coal,38789.44
+Jharkhand,2024,hydro,269.12
+Jharkhand,2024,small-hydro,6.25
+Jharkhand,2024,solar,17.64
+Jharkhand,2025,bio-power,0.0
+Jharkhand,2025,coal,15234.32
+Jharkhand,2025,hydro,70.52
+Jharkhand,2025,small-hydro,1.68
+Jharkhand,2025,solar,5.88
+Karnataka,2015,bio-power,3591.94
+Karnataka,2015,coal,32018.46
+Karnataka,2015,hydro,7477.0
+Karnataka,2015,nuclear,7672.0
+Karnataka,2015,small-hydro,1483.48
+Karnataka,2015,solar,187.69
+Karnataka,2015,wind,4797.97
+Karnataka,2016,bio-power,1708.55
+Karnataka,2016,coal,29949.12
+Karnataka,2016,hydro,6772.0
+Karnataka,2016,nuclear,6533.49
+Karnataka,2016,small-hydro,1597.14
+Karnataka,2016,solar,524.69
+Karnataka,2016,wind,6058.36
+Karnataka,2017,bio-power,2057.56
+Karnataka,2017,coal,27506.25
+Karnataka,2017,hydro,7142.0
+Karnataka,2017,nuclear,7458.63
+Karnataka,2017,small-hydro,1604.41
+Karnataka,2017,solar,2391.73
+Karnataka,2017,wind,7410.29
+Karnataka,2018,bio-power,2500.37
+Karnataka,2018,coal,30174.5
+Karnataka,2018,hydro,12187.68
+Karnataka,2018,nuclear,7138.4400000000005
+Karnataka,2018,small-hydro,1803.1
+Karnataka,2018,solar,7575.83
+Karnataka,2018,wind,9778.26
+Karnataka,2019,bio-power,2376.65
+Karnataka,2019,coal,22660.95
+Karnataka,2019,hydro,14014.27
+Karnataka,2019,nuclear,7245.030000000001
+Karnataka,2019,small-hydro,1901.91
+Karnataka,2019,solar,11221.2
+Karnataka,2019,wind,10148.66
+Karnataka,2020,bio-power,2800.88
+Karnataka,2020,coal,20110.87
+Karnataka,2020,hydro,12587.35
+Karnataka,2020,nuclear,7007.32
+Karnataka,2020,small-hydro,2199.68
+Karnataka,2020,solar,13238.86
+Karnataka,2020,wind,9610.89
+Karnataka,2021,bio-power,3512.35
+Karnataka,2021,coal,30571.6
+Karnataka,2021,hydro,13936.449999999999
+Karnataka,2021,nuclear,7472.24
+Karnataka,2021,small-hydro,2460.91
+Karnataka,2021,solar,13169.43
+Karnataka,2021,wind,9491.62
+Karnataka,2022,bio-power,3144.2
+Karnataka,2022,coal,34969.02
+Karnataka,2022,hydro,13157.34
+Karnataka,2022,nuclear,7435.360000000001
+Karnataka,2022,small-hydro,2309.56
+Karnataka,2022,solar,14153.79
+Karnataka,2022,wind,9967.9
+Karnataka,2023,bio-power,2801.51
+Karnataka,2023,coal,44467.17
+Karnataka,2023,hydro,8973.17
+Karnataka,2023,nuclear,7486.75
+Karnataka,2023,small-hydro,1370.76
+Karnataka,2023,solar,15404.09
+Karnataka,2023,wind,10950.2
+Karnataka,2024,bio-power,2506.4
+Karnataka,2024,coal,44350.11
+Karnataka,2024,hydro,14056.0
+Karnataka,2024,nuclear,7351.14
+Karnataka,2024,oil-gas,314.37
+Karnataka,2024,small-hydro,2259.49
+Karnataka,2024,solar,15699.63
+Karnataka,2024,wind,13620.33
+Karnataka,2025,bio-power,1170.44
+Karnataka,2025,coal,15170.119999999999
+Karnataka,2025,hydro,6780.5599999999995
+Karnataka,2025,nuclear,2261.6800000000003
+Karnataka,2025,oil-gas,214.07
+Karnataka,2025,small-hydro,934.33
+Karnataka,2025,solar,6488.12
+Karnataka,2025,wind,9653.35
+Kerala,2015,bio-power,72.97
+Kerala,2015,hydro,6364.0
+Kerala,2015,oil-gas,142.75
+Kerala,2015,small-hydro,486.99
+Kerala,2015,solar,7.39
+Kerala,2015,wind,51.47
+Kerala,2016,bio-power,1.23
+Kerala,2016,hydro,4068.0
+Kerala,2016,oil-gas,15.4
+Kerala,2016,small-hydro,402.2
+Kerala,2016,solar,26.51
+Kerala,2016,wind,72.6
+Kerala,2017,bio-power,0.0
+Kerala,2017,hydro,5199.0
+Kerala,2017,oil-gas,46.839999999999996
+Kerala,2017,small-hydro,620.52
+Kerala,2017,solar,55.35
+Kerala,2017,wind,98.46
+Kerala,2018,bio-power,0.0
+Kerala,2018,hydro,7320.21
+Kerala,2018,oil-gas,0.81
+Kerala,2018,small-hydro,551.55
+Kerala,2018,solar,110.84
+Kerala,2018,wind,107.94
+Kerala,2019,bio-power,11.03
+Kerala,2019,hydro,5454.04
+Kerala,2019,oil-gas,0.0
+Kerala,2019,small-hydro,530.37
+Kerala,2019,solar,143.59
+Kerala,2019,wind,119.77
+Kerala,2020,bio-power,45.69
+Kerala,2020,hydro,6628.4
+Kerala,2020,oil-gas,101.41
+Kerala,2020,small-hydro,640.58
+Kerala,2020,solar,275.44
+Kerala,2020,wind,130.43
+Kerala,2021,bio-power,48.93
+Kerala,2021,hydro,9317.41
+Kerala,2021,oil-gas,0.0
+Kerala,2021,small-hydro,932.37
+Kerala,2021,solar,496.93
+Kerala,2021,wind,136.41
+Kerala,2022,bio-power,62.85
+Kerala,2022,hydro,7988.99
+Kerala,2022,oil-gas,0.0
+Kerala,2022,small-hydro,824.36
+Kerala,2022,solar,879.75
+Kerala,2022,wind,179.32
+Kerala,2023,bio-power,78.12
+Kerala,2023,hydro,5155.72
+Kerala,2023,oil-gas,0.0
+Kerala,2023,small-hydro,716.31
+Kerala,2023,solar,1195.28
+Kerala,2023,wind,214.53
+Kerala,2024,bio-power,77.17
+Kerala,2024,hydro,6733.99
+Kerala,2024,oil-gas,0.0
+Kerala,2024,small-hydro,814.29
+Kerala,2024,solar,1711.83
+Kerala,2024,wind,119.85
+Kerala,2025,bio-power,29.86
+Kerala,2025,hydro,4699.1900000000005
+Kerala,2025,oil-gas,0.0
+Kerala,2025,small-hydro,366.1
+Kerala,2025,solar,730.24
+Kerala,2025,wind,74.65
+Ladakh,2015,hydro,128.0
+Ladakh,2016,hydro,139.0
+Ladakh,2017,hydro,145.0
+Ladakh,2018,hydro,154.51
+Ladakh,2019,hydro,270.28
+Ladakh,2020,hydro,376.21
+Ladakh,2021,hydro,405.98
+Ladakh,2021,small-hydro,0.0
+Ladakh,2021,solar,0.0
+Ladakh,2022,hydro,402.78
+Ladakh,2022,small-hydro,0.0
+Ladakh,2022,solar,0.0
+Ladakh,2023,hydro,388.48
+Ladakh,2023,small-hydro,0.0
+Ladakh,2023,solar,0.0
+Ladakh,2024,bio-power,0.0
+Ladakh,2024,hydro,413.06
+Ladakh,2024,small-hydro,0.0
+Ladakh,2024,solar,0.0
+Ladakh,2025,bio-power,0.0
+Ladakh,2025,hydro,257.0
+Ladakh,2025,small-hydro,0.0
+Ladakh,2025,solar,0.0
+Lakshadweep,2015,solar,1.03
+Lakshadweep,2016,solar,1.59
+Lakshadweep,2017,solar,1.79
+Lakshadweep,2018,solar,1.12
+Lakshadweep,2019,solar,0.66
+Lakshadweep,2020,solar,0.45
+Lakshadweep,2021,solar,0.3
+Lakshadweep,2022,solar,0.1
+Lakshadweep,2023,solar,0.09
+Lakshadweep,2024,bio-power,0.0
+Lakshadweep,2024,small-hydro,0.0
+Lakshadweep,2024,solar,0.09
+Lakshadweep,2025,bio-power,0.0
+Lakshadweep,2025,solar,0.03
+Madhya Pradesh,2015,bio-power,128.19
+Madhya Pradesh,2015,coal,89523.64
+Madhya Pradesh,2015,hydro,4490.0
+Madhya Pradesh,2015,small-hydro,118.55
+Madhya Pradesh,2015,solar,1186.29
+Madhya Pradesh,2015,wind,1558.45
+Madhya Pradesh,2016,bio-power,114.85
+Madhya Pradesh,2016,coal,89863.8
+Madhya Pradesh,2016,hydro,7156.0
+Madhya Pradesh,2016,small-hydro,224.47
+Madhya Pradesh,2016,solar,1449.6
+Madhya Pradesh,2016,wind,3563.18
+Madhya Pradesh,2017,bio-power,117.25
+Madhya Pradesh,2017,coal,99366.31999999999
+Madhya Pradesh,2017,hydro,2587.0
+Madhya Pradesh,2017,small-hydro,124.11
+Madhya Pradesh,2017,solar,2203.24
+Madhya Pradesh,2017,wind,4139.86
+Madhya Pradesh,2018,bio-power,163.44
+Madhya Pradesh,2018,coal,117998.38
+Madhya Pradesh,2018,hydro,3396.67
+Madhya Pradesh,2018,small-hydro,145.47
+Madhya Pradesh,2018,solar,2913.87
+Madhya Pradesh,2018,wind,4828.2
+Madhya Pradesh,2019,bio-power,129.49
+Madhya Pradesh,2019,coal,111314.56
+Madhya Pradesh,2019,hydro,6281.74
+Madhya Pradesh,2019,small-hydro,246.16
+Madhya Pradesh,2019,solar,3496.23
+Madhya Pradesh,2019,wind,4426.0
+Madhya Pradesh,2020,bio-power,120.62
+Madhya Pradesh,2020,coal,123021.05
+Madhya Pradesh,2020,hydro,6477.299999999999
+Madhya Pradesh,2020,small-hydro,281.76
+Madhya Pradesh,2020,solar,4202.03
+Madhya Pradesh,2020,wind,3913.44
+Madhya Pradesh,2021,bio-power,141.79
+Madhya Pradesh,2021,coal,129233.98
+Madhya Pradesh,2021,hydro,4686.6900000000005
+Madhya Pradesh,2021,small-hydro,221.44
+Madhya Pradesh,2021,solar,4006.7
+Madhya Pradesh,2021,wind,4346.67
+Madhya Pradesh,2022,bio-power,188.73
+Madhya Pradesh,2022,coal,135750.27
+Madhya Pradesh,2022,hydro,7309.06
+Madhya Pradesh,2022,small-hydro,357.97
+Madhya Pradesh,2022,solar,3839.3
+Madhya Pradesh,2022,wind,4486.74
+Madhya Pradesh,2023,bio-power,210.46
+Madhya Pradesh,2023,coal,148660.65
+Madhya Pradesh,2023,hydro,6444.76
+Madhya Pradesh,2023,small-hydro,469.6
+Madhya Pradesh,2023,solar,4025.19
+Madhya Pradesh,2023,wind,4949.78
+Madhya Pradesh,2024,bio-power,248.56
+Madhya Pradesh,2024,coal,146080.7
+Madhya Pradesh,2024,hydro,7606.73
+Madhya Pradesh,2024,small-hydro,482.19
+Madhya Pradesh,2024,solar,7123.73
+Madhya Pradesh,2024,wind,4712.84
+Madhya Pradesh,2025,bio-power,64.66
+Madhya Pradesh,2025,coal,58140.05
+Madhya Pradesh,2025,hydro,3464.05
+Madhya Pradesh,2025,small-hydro,125.38
+Madhya Pradesh,2025,solar,3036.53
+Madhya Pradesh,2025,wind,2773.1
+Maharashtra,2015,bio-power,3433.66
+Maharashtra,2015,coal,95620.4
+Maharashtra,2015,hydro,5079.0
+Maharashtra,2015,nuclear,10393.1
+Maharashtra,2015,oil-gas,5299.91
+Maharashtra,2015,small-hydro,562.78
+Maharashtra,2015,solar,638.78
+Maharashtra,2015,wind,6121.35
+Maharashtra,2016,bio-power,2614.56
+Maharashtra,2016,coal,90494.56
+Maharashtra,2016,hydro,5925.0
+Maharashtra,2016,nuclear,10860.19
+Maharashtra,2016,oil-gas,9480.86
+Maharashtra,2016,small-hydro,609.58
+Maharashtra,2016,solar,577.83
+Maharashtra,2016,wind,7490.76
+Maharashtra,2017,bio-power,3767.83
+Maharashtra,2017,coal,95143.51
+Maharashtra,2017,hydro,4861.0
+Maharashtra,2017,nuclear,6860.360000000001
+Maharashtra,2017,oil-gas,9066.39
+Maharashtra,2017,small-hydro,627.12
+Maharashtra,2017,solar,1100.67
+Maharashtra,2017,wind,6541.35
+Maharashtra,2018,bio-power,4434.07
+Maharashtra,2018,coal,112703.22
+Maharashtra,2018,hydro,5076.86
+Maharashtra,2018,nuclear,10766.21
+Maharashtra,2018,oil-gas,8451.14
+Maharashtra,2018,small-hydro,759.06
+Maharashtra,2018,solar,2206.62
+Maharashtra,2018,wind,7575.14
+Maharashtra,2019,bio-power,2933.28
+Maharashtra,2019,coal,103807.08
+Maharashtra,2019,hydro,5880.58
+Maharashtra,2019,nuclear,10536.550000000001
+Maharashtra,2019,oil-gas,7999.040000000001
+Maharashtra,2019,small-hydro,695.56
+Maharashtra,2019,solar,2372.68
+Maharashtra,2019,wind,7984.27
+Maharashtra,2020,bio-power,3955.76
+Maharashtra,2020,coal,98210.98
+Maharashtra,2020,hydro,5548.44
+Maharashtra,2020,nuclear,7885.6
+Maharashtra,2020,oil-gas,5963.42
+Maharashtra,2020,small-hydro,802.71
+Maharashtra,2020,solar,3089.46
+Maharashtra,2020,wind,6384.58
+Maharashtra,2021,bio-power,4785.31
+Maharashtra,2021,coal,116401.47
+Maharashtra,2021,hydro,6007.37
+Maharashtra,2021,nuclear,8602.27
+Maharashtra,2021,oil-gas,6124.16
+Maharashtra,2021,small-hydro,787.16
+Maharashtra,2021,solar,3187.18
+Maharashtra,2021,wind,7085.98
+Maharashtra,2022,bio-power,4808.95
+Maharashtra,2022,coal,124157.67
+Maharashtra,2022,hydro,5894.29
+Maharashtra,2022,nuclear,8985.560000000001
+Maharashtra,2022,oil-gas,2429.5600000000004
+Maharashtra,2022,small-hydro,766.73
+Maharashtra,2022,solar,4387.85
+Maharashtra,2022,wind,7243.06
+Maharashtra,2023,bio-power,3833.83
+Maharashtra,2023,coal,132867.69
+Maharashtra,2023,hydro,5264.49
+Maharashtra,2023,nuclear,8112.11
+Maharashtra,2023,oil-gas,3970.83
+Maharashtra,2023,small-hydro,888.48
+Maharashtra,2023,solar,5814.13
+Maharashtra,2023,wind,8228.97
+Maharashtra,2024,bio-power,3350.8
+Maharashtra,2024,coal,131021.43000000001
+Maharashtra,2024,hydro,5635.24
+Maharashtra,2024,nuclear,8467.43
+Maharashtra,2024,oil-gas,5390.97
+Maharashtra,2024,small-hydro,855.48
+Maharashtra,2024,solar,7725.2
+Maharashtra,2024,wind,7659.71
+Maharashtra,2025,bio-power,283.26
+Maharashtra,2025,coal,54424.22
+Maharashtra,2025,hydro,2634.59
+Maharashtra,2025,nuclear,3562.6099999999997
+Maharashtra,2025,oil-gas,1903.54
+Maharashtra,2025,small-hydro,280.88
+Maharashtra,2025,solar,3475.46
+Maharashtra,2025,wind,5212.53
+Manipur,2015,hydro,537.0
+Manipur,2015,small-hydro,0.0
+Manipur,2015,solar,0.0
+Manipur,2016,hydro,741.0
+Manipur,2016,small-hydro,0.0
+Manipur,2016,solar,0.02
+Manipur,2017,hydro,838.0
+Manipur,2017,small-hydro,0.0
+Manipur,2017,solar,0.15
+Manipur,2018,hydro,602.61
+Manipur,2018,small-hydro,0.0
+Manipur,2018,solar,1.88
+Manipur,2019,hydro,366.59
+Manipur,2019,small-hydro,1.57
+Manipur,2019,solar,2.63
+Manipur,2020,hydro,621.62
+Manipur,2020,small-hydro,0.0
+Manipur,2020,solar,7.71
+Manipur,2021,hydro,455.46
+Manipur,2021,small-hydro,0.0
+Manipur,2021,solar,6.72
+Manipur,2022,hydro,477.98
+Manipur,2022,small-hydro,0.0
+Manipur,2022,solar,8.17
+Manipur,2023,bio-power,1.23
+Manipur,2023,hydro,298.18
+Manipur,2023,small-hydro,0.0
+Manipur,2023,solar,7.73
+Manipur,2024,bio-power,0.0
+Manipur,2024,hydro,706.37
+Manipur,2024,small-hydro,0.0
+Manipur,2024,solar,8.68
+Manipur,2025,bio-power,0.0
+Manipur,2025,hydro,252.54
+Manipur,2025,small-hydro,0.0
+Manipur,2025,solar,2.88
+Meghalaya,2015,bio-power,0.0
+Meghalaya,2015,hydro,861.0
+Meghalaya,2015,small-hydro,65.97
+Meghalaya,2015,solar,0.0
+Meghalaya,2016,bio-power,0.0
+Meghalaya,2016,hydro,720.0
+Meghalaya,2016,small-hydro,59.1
+Meghalaya,2016,solar,0.0
+Meghalaya,2017,bio-power,0.0
+Meghalaya,2017,hydro,1140.0
+Meghalaya,2017,small-hydro,70.56
+Meghalaya,2017,solar,0.0
+Meghalaya,2018,bio-power,0.0
+Meghalaya,2018,hydro,929.53
+Meghalaya,2018,small-hydro,50.51
+Meghalaya,2018,solar,0.0
+Meghalaya,2019,bio-power,0.0
+Meghalaya,2019,hydro,1018.29
+Meghalaya,2019,small-hydro,62.73
+Meghalaya,2019,solar,0.0
+Meghalaya,2020,bio-power,0.0
+Meghalaya,2020,hydro,1151.99
+Meghalaya,2020,small-hydro,56.79
+Meghalaya,2020,solar,0.0
+Meghalaya,2021,bio-power,0.0
+Meghalaya,2021,hydro,841.8199999999999
+Meghalaya,2021,small-hydro,44.2
+Meghalaya,2021,solar,0.47
+Meghalaya,2022,bio-power,0.0
+Meghalaya,2022,hydro,980.25
+Meghalaya,2022,small-hydro,71.63
+Meghalaya,2022,solar,0.0
+Meghalaya,2023,bio-power,0.0
+Meghalaya,2023,hydro,808.5799999999999
+Meghalaya,2023,small-hydro,66.55
+Meghalaya,2023,solar,0.0
+Meghalaya,2024,bio-power,0.0
+Meghalaya,2024,hydro,905.5799999999999
+Meghalaya,2024,small-hydro,116.65
+Meghalaya,2024,solar,0.0
+Meghalaya,2025,bio-power,0.0
+Meghalaya,2025,hydro,568.63
+Meghalaya,2025,small-hydro,53.31
+Meghalaya,2025,solar,0.0
+Mizoram,2015,small-hydro,27.62
+Mizoram,2015,solar,0.0
+Mizoram,2016,small-hydro,45.5
+Mizoram,2016,solar,0.0
+Mizoram,2017,hydro,78.0
+Mizoram,2017,small-hydro,54.67
+Mizoram,2017,solar,0.0
+Mizoram,2018,hydro,168.44
+Mizoram,2018,small-hydro,39.97
+Mizoram,2018,solar,0.12
+Mizoram,2019,hydro,177.02
+Mizoram,2019,small-hydro,49.56
+Mizoram,2019,solar,0.44
+Mizoram,2020,hydro,158.85
+Mizoram,2020,small-hydro,31.07
+Mizoram,2020,solar,2.45
+Mizoram,2021,hydro,137.44
+Mizoram,2021,small-hydro,26.42
+Mizoram,2021,solar,1.68
+Mizoram,2022,hydro,204.13
+Mizoram,2022,small-hydro,59.02
+Mizoram,2022,solar,3.21
+Mizoram,2023,hydro,118.63
+Mizoram,2023,small-hydro,95.93
+Mizoram,2023,solar,3.19
+Mizoram,2024,bio-power,0.0
+Mizoram,2024,hydro,240.3
+Mizoram,2024,small-hydro,52.11
+Mizoram,2024,solar,25.38
+Mizoram,2025,bio-power,0.0
+Mizoram,2025,hydro,121.01
+Mizoram,2025,small-hydro,7.05
+Mizoram,2025,solar,12.43
+Nagaland,2015,hydro,163.0
+Nagaland,2015,small-hydro,88.74
+Nagaland,2015,solar,0.0
+Nagaland,2016,hydro,259.0
+Nagaland,2016,small-hydro,92.73
+Nagaland,2016,solar,0.0
+Nagaland,2017,hydro,274.0
+Nagaland,2017,small-hydro,91.0
+Nagaland,2017,solar,0.0
+Nagaland,2018,hydro,231.47
+Nagaland,2018,small-hydro,87.45
+Nagaland,2018,solar,0.0
+Nagaland,2019,hydro,180.85
+Nagaland,2019,small-hydro,75.87
+Nagaland,2019,solar,0.0
+Nagaland,2020,hydro,203.86
+Nagaland,2020,small-hydro,69.77
+Nagaland,2020,solar,0.0
+Nagaland,2020,wind,1.0
+Nagaland,2021,hydro,100.55
+Nagaland,2021,small-hydro,63.48
+Nagaland,2021,solar,0.0
+Nagaland,2022,hydro,177.37
+Nagaland,2022,small-hydro,111.95
+Nagaland,2022,solar,0.0
+Nagaland,2023,hydro,165.47
+Nagaland,2023,small-hydro,81.14
+Nagaland,2023,solar,0.0
+Nagaland,2024,bio-power,0.0
+Nagaland,2024,hydro,215.02
+Nagaland,2024,small-hydro,98.62
+Nagaland,2024,solar,0.0
+Nagaland,2025,bio-power,0.0
+Nagaland,2025,hydro,105.84
+Nagaland,2025,small-hydro,28.04
+Nagaland,2025,solar,0.0
+Odisha,2015,bio-power,20.46
+Odisha,2015,coal,50822.48
+Odisha,2015,hydro,4909.0
+Odisha,2015,small-hydro,263.25
+Odisha,2015,solar,163.33
+Odisha,2016,bio-power,57.86
+Odisha,2016,coal,49141.770000000004
+Odisha,2016,hydro,5113.0
+Odisha,2016,small-hydro,239.04
+Odisha,2016,solar,215.79
+Odisha,2017,bio-power,47.22
+Odisha,2017,coal,36257.01
+Odisha,2017,hydro,6024.0
+Odisha,2017,small-hydro,265.57
+Odisha,2017,solar,218.4
+Odisha,2018,bio-power,66.08
+Odisha,2018,coal,39595.55
+Odisha,2018,hydro,6777.450000000001
+Odisha,2018,small-hydro,266.08
+Odisha,2018,solar,262.26
+Odisha,2018,wind,58.22
+Odisha,2019,bio-power,66.59
+Odisha,2019,coal,39310.22
+Odisha,2019,hydro,6728.77
+Odisha,2019,small-hydro,299.65
+Odisha,2019,solar,362.29
+Odisha,2019,wind,54.66
+Odisha,2020,bio-power,42.71
+Odisha,2020,coal,53818.97
+Odisha,2020,hydro,6859.96
+Odisha,2020,small-hydro,358.8
+Odisha,2020,solar,476.27
+Odisha,2021,bio-power,100.08
+Odisha,2021,coal,59662.08
+Odisha,2021,hydro,5230.63
+Odisha,2021,small-hydro,377.29
+Odisha,2021,solar,603.71
+Odisha,2022,bio-power,1629.64
+Odisha,2022,coal,64452.8
+Odisha,2022,hydro,5462.81
+Odisha,2022,small-hydro,424.94
+Odisha,2022,solar,706.24
+Odisha,2023,bio-power,96.07
+Odisha,2023,coal,65317.53
+Odisha,2023,hydro,6162.2
+Odisha,2023,small-hydro,407.97
+Odisha,2023,solar,757.69
+Odisha,2024,bio-power,53.8
+Odisha,2024,coal,67618.11
+Odisha,2024,hydro,6285.36
+Odisha,2024,small-hydro,457.2
+Odisha,2024,solar,786.75
+Odisha,2025,bio-power,26.47
+Odisha,2025,coal,28569.24
+Odisha,2025,hydro,2804.82
+Odisha,2025,small-hydro,139.05
+Odisha,2025,solar,336.76
+Others,2015,solar,0.0
+Others,2015,wind,0.0
+Others,2016,solar,0.0
+Others,2016,wind,0.0
+Others,2017,solar,0.0
+Others,2017,wind,0.0
+Others,2018,solar,0.0
+Others,2018,wind,0.0
+Others,2019,solar,0.0
+Others,2019,wind,0.0
+Others,2020,solar,0.0
+Others,2020,wind,0.0
+Others,2021,solar,0.0
+Others,2021,wind,0.0
+Others,2022,solar,0.0
+Others,2022,wind,0.0
+Others,2023,solar,0.0
+Others,2023,wind,0.0
+Others,2024,solar,0.0
+Others,2024,wind,0.0
+Others,2025,solar,0.0
+Others,2025,wind,0.0
+Puducherry,2015,oil-gas,227.59
+Puducherry,2015,solar,0.02
+Puducherry,2016,oil-gas,246.84
+Puducherry,2016,solar,0.18
+Puducherry,2017,oil-gas,226.45
+Puducherry,2017,solar,1.17
+Puducherry,2018,oil-gas,229.88
+Puducherry,2018,solar,2.58
+Puducherry,2019,oil-gas,255.79
+Puducherry,2019,solar,4.15
+Puducherry,2020,oil-gas,232.15
+Puducherry,2020,solar,6.39
+Puducherry,2021,oil-gas,251.13
+Puducherry,2021,solar,12.24
+Puducherry,2022,oil-gas,233.07
+Puducherry,2022,solar,12.24
+Puducherry,2023,oil-gas,224.1
+Puducherry,2023,solar,12.24
+Puducherry,2024,bio-power,0.0
+Puducherry,2024,oil-gas,204.95
+Puducherry,2024,small-hydro,0.0
+Puducherry,2024,solar,12.24
+Puducherry,2025,bio-power,0.0
+Puducherry,2025,oil-gas,59.98
+Puducherry,2025,solar,5.83
+Punjab,2015,bio-power,603.54
+Punjab,2015,coal,18699.13
+Punjab,2015,hydro,4647.38
+Punjab,2015,small-hydro,490.08
+Punjab,2015,solar,380.57
+Punjab,2016,bio-power,763.71
+Punjab,2016,coal,22622.29
+Punjab,2016,hydro,3911.0
+Punjab,2016,small-hydro,414.81
+Punjab,2016,solar,905.75
+Punjab,2017,bio-power,694.18
+Punjab,2017,coal,22190.95
+Punjab,2017,hydro,4724.0
+Punjab,2017,small-hydro,217.62
+Punjab,2017,solar,1432.07
+Punjab,2018,bio-power,601.08
+Punjab,2018,coal,26278.04
+Punjab,2018,hydro,4335.4
+Punjab,2018,small-hydro,351.22
+Punjab,2018,solar,1492.9
+Punjab,2019,bio-power,651.53
+Punjab,2019,coal,20850.9
+Punjab,2019,hydro,5123.48
+Punjab,2019,small-hydro,712.77
+Punjab,2019,solar,1358.22
+Punjab,2019,wind,16.9
+Punjab,2020,bio-power,817.66
+Punjab,2020,coal,17879.29
+Punjab,2020,hydro,4747.04
+Punjab,2020,small-hydro,690.33
+Punjab,2020,solar,1356.48
+Punjab,2021,bio-power,785.39
+Punjab,2021,coal,24152.44
+Punjab,2021,hydro,3709.7200000000003
+Punjab,2021,small-hydro,983.37
+Punjab,2021,solar,1473.41
+Punjab,2022,bio-power,708.45
+Punjab,2022,coal,31461.48
+Punjab,2022,hydro,4399.65
+Punjab,2022,small-hydro,682.48
+Punjab,2022,solar,2778.66
+Punjab,2023,bio-power,811.43
+Punjab,2023,coal,32447.84
+Punjab,2023,hydro,4676.42
+Punjab,2023,small-hydro,636.97
+Punjab,2023,solar,2673.99
+Punjab,2024,bio-power,1040.17
+Punjab,2024,coal,33573.52
+Punjab,2024,hydro,4126.110000000001
+Punjab,2024,small-hydro,734.01
+Punjab,2024,solar,1372.73
+Punjab,2025,bio-power,295.5
+Punjab,2025,coal,15139.880000000001
+Punjab,2025,hydro,1892.79
+Punjab,2025,small-hydro,215.98
+Punjab,2025,solar,635.86
+Rajasthan,2015,bio-power,245.49
+Rajasthan,2015,coal,41157.85
+Rajasthan,2015,hydro,1033.0
+Rajasthan,2015,nuclear,8382.33
+Rajasthan,2015,oil-gas,2834.86
+Rajasthan,2015,small-hydro,5.05
+Rajasthan,2015,solar,1775.99
+Rajasthan,2015,wind,4767.38
+Rajasthan,2016,bio-power,272.96
+Rajasthan,2016,coal,40462.21
+Rajasthan,2016,hydro,967.0
+Rajasthan,2016,nuclear,7472.59
+Rajasthan,2016,oil-gas,2245.74
+Rajasthan,2016,small-hydro,6.75
+Rajasthan,2016,solar,2189.41
+Rajasthan,2016,wind,5761.61
+Rajasthan,2017,bio-power,340.84
+Rajasthan,2017,coal,36887.68
+Rajasthan,2017,hydro,819.0
+Rajasthan,2017,nuclear,8599.94
+Rajasthan,2017,oil-gas,2147.34
+Rajasthan,2017,small-hydro,8.69
+Rajasthan,2017,solar,3918.6
+Rajasthan,2017,wind,5800.93
+Rajasthan,2018,bio-power,345.09
+Rajasthan,2018,coal,46588.41
+Rajasthan,2018,hydro,698.4
+Rajasthan,2018,nuclear,7998.93
+Rajasthan,2018,oil-gas,1569.6599999999999
+Rajasthan,2018,small-hydro,5.18
+Rajasthan,2018,solar,5098.9
+Rajasthan,2018,wind,6403.81
+Rajasthan,2019,bio-power,389.94
+Rajasthan,2019,coal,44628.36
+Rajasthan,2019,hydro,606.1800000000001
+Rajasthan,2019,nuclear,8435.31
+Rajasthan,2019,oil-gas,1033.51
+Rajasthan,2019,small-hydro,9.75
+Rajasthan,2019,solar,7776.56
+Rajasthan,2019,wind,6155.82
+Rajasthan,2020,bio-power,413.24
+Rajasthan,2020,coal,44732.51
+Rajasthan,2020,hydro,469.63
+Rajasthan,2020,nuclear,7354.8099999999995
+Rajasthan,2020,oil-gas,1018.7
+Rajasthan,2020,small-hydro,10.64
+Rajasthan,2020,solar,10384.24
+Rajasthan,2020,wind,5708.24
+Rajasthan,2021,bio-power,378.41
+Rajasthan,2021,coal,49534.58
+Rajasthan,2021,hydro,481.84
+Rajasthan,2021,nuclear,8234.27
+Rajasthan,2021,oil-gas,1499.01
+Rajasthan,2021,small-hydro,7.85
+Rajasthan,2021,solar,17219.88
+Rajasthan,2021,wind,6493.2
+Rajasthan,2022,bio-power,397.05
+Rajasthan,2022,coal,55946.35
+Rajasthan,2022,hydro,967.4300000000001
+Rajasthan,2022,nuclear,6539.46
+Rajasthan,2022,oil-gas,1450.33
+Rajasthan,2022,small-hydro,7.16
+Rajasthan,2022,solar,34474.43
+Rajasthan,2022,wind,6111.41
+Rajasthan,2023,bio-power,387.55
+Rajasthan,2023,coal,60188.35
+Rajasthan,2023,hydro,1013.97
+Rajasthan,2023,nuclear,6996.48
+Rajasthan,2023,oil-gas,1144.61
+Rajasthan,2023,small-hydro,7.45
+Rajasthan,2023,solar,38365.21
+Rajasthan,2023,wind,8390.67
+Rajasthan,2024,bio-power,400.85
+Rajasthan,2024,coal,65059.55
+Rajasthan,2024,hydro,905.8
+Rajasthan,2024,nuclear,7395.88
+Rajasthan,2024,oil-gas,921.9
+Rajasthan,2024,small-hydro,4.15
+Rajasthan,2024,solar,49101.62
+Rajasthan,2024,wind,6941.26
+Rajasthan,2025,bio-power,265.05
+Rajasthan,2025,coal,22832.75
+Rajasthan,2025,hydro,229.22
+Rajasthan,2025,nuclear,4492.57
+Rajasthan,2025,oil-gas,416.1
+Rajasthan,2025,small-hydro,1.33
+Rajasthan,2025,solar,25254.7
+Rajasthan,2025,wind,4140.8
+Sikkim,2015,hydro,3551.0
+Sikkim,2015,small-hydro,41.93
+Sikkim,2015,solar,0.0
+Sikkim,2016,hydro,4330.0
+Sikkim,2016,small-hydro,30.97
+Sikkim,2016,solar,0.0
+Sikkim,2017,hydro,8888.0
+Sikkim,2017,small-hydro,30.54
+Sikkim,2017,solar,0.0
+Sikkim,2018,hydro,9022.07
+Sikkim,2018,small-hydro,28.1
+Sikkim,2018,solar,0.0
+Sikkim,2019,hydro,11027.36
+Sikkim,2019,small-hydro,60.62
+Sikkim,2019,solar,0.0
+Sikkim,2020,hydro,10879.51
+Sikkim,2020,small-hydro,55.96
+Sikkim,2020,solar,0.0
+Sikkim,2021,hydro,11493.91
+Sikkim,2021,small-hydro,20.16
+Sikkim,2021,solar,0.0
+Sikkim,2022,hydro,11696.79
+Sikkim,2022,small-hydro,12.36
+Sikkim,2022,solar,0.0
+Sikkim,2023,hydro,8609.86
+Sikkim,2023,small-hydro,12.35
+Sikkim,2023,solar,0.0
+Sikkim,2024,bio-power,0.0
+Sikkim,2024,hydro,2030.95
+Sikkim,2024,small-hydro,12.35
+Sikkim,2024,solar,0.0
+Sikkim,2025,bio-power,0.0
+Sikkim,2025,hydro,1448.08
+Sikkim,2025,small-hydro,4.12
+Sikkim,2025,solar,0.0
+Tamil Nadu,2015,bio-power,1337.03
+Tamil Nadu,2015,coal,62559.52
+Tamil Nadu,2015,hydro,4476.26
+Tamil Nadu,2015,nuclear,5456.83
+Tamil Nadu,2015,oil-gas,2671.78
+Tamil Nadu,2015,small-hydro,214.03
+Tamil Nadu,2015,solar,507.17
+Tamil Nadu,2015,wind,7273.24
+Tamil Nadu,2016,bio-power,1226.48
+Tamil Nadu,2016,coal,68520.66
+Tamil Nadu,2016,hydro,2398.0
+Tamil Nadu,2016,nuclear,9670.69
+Tamil Nadu,2016,oil-gas,2752.36
+Tamil Nadu,2016,small-hydro,93.81
+Tamil Nadu,2016,solar,1898.36
+Tamil Nadu,2016,wind,11935.27
+Tamil Nadu,2017,bio-power,729.72
+Tamil Nadu,2017,coal,59453.97
+Tamil Nadu,2017,hydro,2918.0
+Tamil Nadu,2017,nuclear,11585.08
+Tamil Nadu,2017,oil-gas,2768.17
+Tamil Nadu,2017,small-hydro,186.14
+Tamil Nadu,2017,solar,2906.01
+Tamil Nadu,2017,wind,12358.01
+Tamil Nadu,2018,bio-power,395.16
+Tamil Nadu,2018,coal,67276.38
+Tamil Nadu,2018,hydro,5281.59
+Tamil Nadu,2018,nuclear,7549.9400000000005
+Tamil Nadu,2018,oil-gas,2904.05
+Tamil Nadu,2018,small-hydro,347.97
+Tamil Nadu,2018,solar,3554.5
+Tamil Nadu,2018,wind,12600.84
+Tamil Nadu,2019,bio-power,454.58
+Tamil Nadu,2019,coal,60528.75
+Tamil Nadu,2019,hydro,4765.24
+Tamil Nadu,2019,nuclear,12959.98
+Tamil Nadu,2019,oil-gas,2869.99
+Tamil Nadu,2019,small-hydro,235.76
+Tamil Nadu,2019,solar,4946.63
+Tamil Nadu,2019,wind,14126.92
+Tamil Nadu,2020,bio-power,733.8
+Tamil Nadu,2020,coal,48677.03
+Tamil Nadu,2020,hydro,5212.71
+Tamil Nadu,2020,nuclear,13648.900000000001
+Tamil Nadu,2020,oil-gas,2264.73
+Tamil Nadu,2020,small-hydro,244.77
+Tamil Nadu,2020,solar,6115.48
+Tamil Nadu,2020,wind,14564.93
+Tamil Nadu,2021,bio-power,774.04
+Tamil Nadu,2021,coal,59215.19
+Tamil Nadu,2021,hydro,5212.05
+Tamil Nadu,2021,nuclear,15625.99
+Tamil Nadu,2021,oil-gas,1732.23
+Tamil Nadu,2021,small-hydro,293.17
+Tamil Nadu,2021,solar,7172.88
+Tamil Nadu,2021,wind,15821.18
+Tamil Nadu,2022,bio-power,996.49
+Tamil Nadu,2022,coal,65360.47
+Tamil Nadu,2022,hydro,5863.87
+Tamil Nadu,2022,nuclear,16012.71
+Tamil Nadu,2022,oil-gas,1861.9499999999998
+Tamil Nadu,2022,small-hydro,296.71
+Tamil Nadu,2022,solar,9419.39
+Tamil Nadu,2022,wind,16913.85
+Tamil Nadu,2023,bio-power,751.75
+Tamil Nadu,2023,coal,73130.31999999999
+Tamil Nadu,2023,hydro,3563.2799999999997
+Tamil Nadu,2023,nuclear,14810.130000000001
+Tamil Nadu,2023,oil-gas,1918.62
+Tamil Nadu,2023,small-hydro,206.0
+Tamil Nadu,2023,solar,11737.48
+Tamil Nadu,2023,wind,16908.08
+Tamil Nadu,2024,bio-power,484.89
+Tamil Nadu,2024,coal,72548.27
+Tamil Nadu,2024,hydro,4602.73
+Tamil Nadu,2024,nuclear,17490.53
+Tamil Nadu,2024,oil-gas,1615.77
+Tamil Nadu,2024,small-hydro,256.6
+Tamil Nadu,2024,solar,15739.3
+Tamil Nadu,2024,wind,17326.66
+Tamil Nadu,2025,bio-power,55.66
+Tamil Nadu,2025,coal,26309.62
+Tamil Nadu,2025,hydro,2707.9900000000002
+Tamil Nadu,2025,nuclear,7473.53
+Tamil Nadu,2025,oil-gas,519.94
+Tamil Nadu,2025,small-hydro,90.4
+Tamil Nadu,2025,solar,7753.22
+Tamil Nadu,2025,wind,15469.98
+Telangana,2015,bio-power,576.7
+Telangana,2015,coal,34885.03
+Telangana,2015,hydro,282.36
+Telangana,2015,small-hydro,48.71
+Telangana,2015,solar,418.55
+Telangana,2015,wind,0.0
+Telangana,2016,bio-power,397.46
+Telangana,2016,coal,40488.22
+Telangana,2016,hydro,1279.0
+Telangana,2016,small-hydro,52.64
+Telangana,2016,solar,1352.83
+Telangana,2016,wind,211.95
+Telangana,2017,bio-power,371.93
+Telangana,2017,coal,43207.44
+Telangana,2017,hydro,1492.0
+Telangana,2017,small-hydro,51.27
+Telangana,2017,solar,4030.2
+Telangana,2017,wind,195.3
+Telangana,2018,bio-power,407.73
+Telangana,2018,coal,48054.25
+Telangana,2018,hydro,1744.61
+Telangana,2018,small-hydro,51.18
+Telangana,2018,solar,6314.26
+Telangana,2018,wind,274.83
+Telangana,2019,bio-power,245.78
+Telangana,2019,coal,45881.86
+Telangana,2019,hydro,4507.04
+Telangana,2019,small-hydro,46.29
+Telangana,2019,solar,6263.92
+Telangana,2019,wind,238.27
+Telangana,2020,bio-power,294.16
+Telangana,2020,coal,44574.07
+Telangana,2020,hydro,3586.07
+Telangana,2020,small-hydro,67.27
+Telangana,2020,solar,6351.04
+Telangana,2020,wind,220.66
+Telangana,2021,bio-power,442.3
+Telangana,2021,coal,51529.91
+Telangana,2021,hydro,5626.629999999999
+Telangana,2021,small-hydro,90.99
+Telangana,2021,solar,6536.94
+Telangana,2021,wind,275.68
+Telangana,2022,bio-power,313.5
+Telangana,2022,coal,50801.88
+Telangana,2022,hydro,6010.0599999999995
+Telangana,2022,small-hydro,91.71
+Telangana,2022,solar,6745.46
+Telangana,2022,wind,279.25
+Telangana,2023,bio-power,260.94
+Telangana,2023,coal,56630.62
+Telangana,2023,hydro,1243.29
+Telangana,2023,small-hydro,58.87
+Telangana,2023,solar,6884.68
+Telangana,2023,wind,304.63
+Telangana,2024,bio-power,334.86
+Telangana,2024,coal,56711.12
+Telangana,2024,hydro,5270.780000000001
+Telangana,2024,small-hydro,74.48
+Telangana,2024,solar,6941.75
+Telangana,2024,wind,290.6
+Telangana,2025,bio-power,88.71
+Telangana,2025,coal,23598.74
+Telangana,2025,hydro,2700.18
+Telangana,2025,small-hydro,7.21
+Telangana,2025,solar,2755.41
+Telangana,2025,wind,159.28
+Tripura,2015,oil-gas,5109.38
+Tripura,2015,small-hydro,18.48
+Tripura,2015,solar,6.04
+Tripura,2016,oil-gas,5873.889999999999
+Tripura,2016,small-hydro,46.47
+Tripura,2016,solar,6.89
+Tripura,2017,oil-gas,5999.2699999999995
+Tripura,2017,small-hydro,44.48
+Tripura,2017,solar,6.71
+Tripura,2018,oil-gas,6630.85
+Tripura,2018,small-hydro,42.98
+Tripura,2018,solar,7.14
+Tripura,2019,oil-gas,6092.9400000000005
+Tripura,2019,small-hydro,24.67
+Tripura,2019,solar,3.43
+Tripura,2020,oil-gas,7043.209999999999
+Tripura,2020,small-hydro,9.58
+Tripura,2020,solar,6.04
+Tripura,2021,oil-gas,6332.2699999999995
+Tripura,2021,small-hydro,1.44
+Tripura,2021,solar,6.18
+Tripura,2022,oil-gas,7079.48
+Tripura,2022,small-hydro,0.0
+Tripura,2022,solar,6.58
+Tripura,2023,oil-gas,6353.3099999999995
+Tripura,2023,small-hydro,0.0
+Tripura,2023,solar,5.09
+Tripura,2024,bio-power,0.0
+Tripura,2024,oil-gas,5099.65
+Tripura,2024,small-hydro,0.0
+Tripura,2024,solar,5.97
+Tripura,2025,bio-power,0.0
+Tripura,2025,oil-gas,2096.76
+Tripura,2025,small-hydro,0.0
+Tripura,2025,solar,5.03
+Uttar Pradesh,2015,bio-power,3082.02
+Uttar Pradesh,2015,coal,101195.25
+Uttar Pradesh,2015,hydro,935.0
+Uttar Pradesh,2015,nuclear,3435.26
+Uttar Pradesh,2015,oil-gas,4511.3099999999995
+Uttar Pradesh,2015,small-hydro,29.73
+Uttar Pradesh,2015,solar,126.14
+Uttar Pradesh,2016,bio-power,3394.52
+Uttar Pradesh,2016,coal,111142.4
+Uttar Pradesh,2016,hydro,1176.0
+Uttar Pradesh,2016,nuclear,3378.89
+Uttar Pradesh,2016,oil-gas,2772.63
+Uttar Pradesh,2016,small-hydro,27.83
+Uttar Pradesh,2016,solar,267.29
+Uttar Pradesh,2017,bio-power,3939.09
+Uttar Pradesh,2017,coal,110216.33
+Uttar Pradesh,2017,hydro,1487.0
+Uttar Pradesh,2017,nuclear,3636.39
+Uttar Pradesh,2017,oil-gas,2004.78
+Uttar Pradesh,2017,small-hydro,30.18
+Uttar Pradesh,2017,solar,685.93
+Uttar Pradesh,2018,bio-power,4428.44
+Uttar Pradesh,2018,coal,116088.08
+Uttar Pradesh,2018,hydro,1176.3600000000001
+Uttar Pradesh,2018,nuclear,3156.39
+Uttar Pradesh,2018,oil-gas,2206.4700000000003
+Uttar Pradesh,2018,small-hydro,31.31
+Uttar Pradesh,2018,solar,1243.59
+Uttar Pradesh,2019,bio-power,3659.74
+Uttar Pradesh,2019,coal,113345.65
+Uttar Pradesh,2019,hydro,1073.48
+Uttar Pradesh,2019,nuclear,3791.0299999999997
+Uttar Pradesh,2019,oil-gas,2296.54
+Uttar Pradesh,2019,small-hydro,36.43
+Uttar Pradesh,2019,solar,1447.05
+Uttar Pradesh,2020,bio-power,3726.69
+Uttar Pradesh,2020,coal,119315.85
+Uttar Pradesh,2020,hydro,1572.35
+Uttar Pradesh,2020,nuclear,3283.3500000000004
+Uttar Pradesh,2020,oil-gas,2470.75
+Uttar Pradesh,2020,small-hydro,164.91
+Uttar Pradesh,2020,solar,1856.19
+Uttar Pradesh,2021,bio-power,3266.0
+Uttar Pradesh,2021,coal,130645.67
+Uttar Pradesh,2021,hydro,1402.68
+Uttar Pradesh,2021,nuclear,3580.41
+Uttar Pradesh,2021,oil-gas,1148.49
+Uttar Pradesh,2021,small-hydro,162.54
+Uttar Pradesh,2021,solar,2900.41
+Uttar Pradesh,2022,bio-power,3308.47
+Uttar Pradesh,2022,coal,151069.04
+Uttar Pradesh,2022,hydro,974.03
+Uttar Pradesh,2022,nuclear,3186.79
+Uttar Pradesh,2022,oil-gas,908.23
+Uttar Pradesh,2022,small-hydro,234.7
+Uttar Pradesh,2022,solar,3674.02
+Uttar Pradesh,2023,bio-power,3055.05
+Uttar Pradesh,2023,coal,152487.37
+Uttar Pradesh,2023,hydro,850.64
+Uttar Pradesh,2023,nuclear,2865.05
+Uttar Pradesh,2023,oil-gas,1619.52
+Uttar Pradesh,2023,small-hydro,175.24
+Uttar Pradesh,2023,solar,3971.31
+Uttar Pradesh,2024,bio-power,2563.71
+Uttar Pradesh,2024,coal,160922.22
+Uttar Pradesh,2024,hydro,1273.74
+Uttar Pradesh,2024,nuclear,3626.83
+Uttar Pradesh,2024,oil-gas,1247.56
+Uttar Pradesh,2024,small-hydro,179.0
+Uttar Pradesh,2024,solar,4966.06
+Uttar Pradesh,2025,bio-power,274.36
+Uttar Pradesh,2025,coal,71383.08
+Uttar Pradesh,2025,hydro,788.19
+Uttar Pradesh,2025,nuclear,837.89
+Uttar Pradesh,2025,oil-gas,489.13
+Uttar Pradesh,2025,small-hydro,24.29
+Uttar Pradesh,2025,solar,2306.29
+Uttarakhand,2015,bio-power,91.86
+Uttarakhand,2015,hydro,12767.0
+Uttarakhand,2015,small-hydro,605.69
+Uttarakhand,2015,solar,5.87
+Uttarakhand,2016,bio-power,103.52
+Uttarakhand,2016,hydro,13280.0
+Uttarakhand,2016,oil-gas,969.01
+Uttarakhand,2016,small-hydro,789.05
+Uttarakhand,2016,solar,32.26
+Uttarakhand,2017,bio-power,143.81
+Uttarakhand,2017,hydro,13987.0
+Uttarakhand,2017,oil-gas,1622.9899999999998
+Uttarakhand,2017,small-hydro,749.61
+Uttarakhand,2017,solar,291.08
+Uttarakhand,2018,bio-power,109.89
+Uttarakhand,2018,hydro,13741.119999999999
+Uttarakhand,2018,oil-gas,1254.24
+Uttarakhand,2018,small-hydro,676.79
+Uttarakhand,2018,solar,318.29
+Uttarakhand,2019,bio-power,110.26
+Uttarakhand,2019,hydro,14554.529999999999
+Uttarakhand,2019,oil-gas,1986.79
+Uttarakhand,2019,small-hydro,742.19
+Uttarakhand,2019,solar,341.51
+Uttarakhand,2020,bio-power,85.33
+Uttarakhand,2020,hydro,13592.52
+Uttarakhand,2020,oil-gas,721.97
+Uttarakhand,2020,small-hydro,821.88
+Uttarakhand,2020,solar,329.64
+Uttarakhand,2021,bio-power,244.02
+Uttarakhand,2021,hydro,14332.1
+Uttarakhand,2021,oil-gas,1012.3199999999999
+Uttarakhand,2021,small-hydro,326.7
+Uttarakhand,2021,solar,301.6
+Uttarakhand,2022,bio-power,248.52
+Uttarakhand,2022,hydro,15435.77
+Uttarakhand,2022,oil-gas,0.0
+Uttarakhand,2022,small-hydro,353.4
+Uttarakhand,2022,solar,331.8
+Uttarakhand,2023,bio-power,248.52
+Uttarakhand,2023,hydro,13919.23
+Uttarakhand,2023,oil-gas,609.78
+Uttarakhand,2023,small-hydro,353.4
+Uttarakhand,2023,solar,331.8
+Uttarakhand,2024,bio-power,248.52
+Uttarakhand,2024,hydro,15093.56
+Uttarakhand,2024,oil-gas,837.76
+Uttarakhand,2024,small-hydro,353.4
+Uttarakhand,2024,solar,331.8
+Uttarakhand,2025,bio-power,82.84
+Uttarakhand,2025,hydro,8225.43
+Uttarakhand,2025,oil-gas,460.63
+Uttarakhand,2025,small-hydro,117.8
+Uttarakhand,2025,solar,123.55
+West Bengal,2015,bio-power,1444.31
+West Bengal,2015,coal,61589.18
+West Bengal,2015,hydro,2134.0
+West Bengal,2015,small-hydro,275.83
+West Bengal,2015,solar,6.28
+West Bengal,2016,bio-power,1433.93
+West Bengal,2016,coal,70593.84
+West Bengal,2016,hydro,2839.0
+West Bengal,2016,small-hydro,256.95
+West Bengal,2016,solar,14.98
+West Bengal,2017,bio-power,1387.01
+West Bengal,2017,coal,66339.51
+West Bengal,2017,hydro,2277.0
+West Bengal,2017,small-hydro,192.52
+West Bengal,2017,solar,20.53
+West Bengal,2018,bio-power,1284.5
+West Bengal,2018,coal,74072.67
+West Bengal,2018,hydro,2919.8100000000004
+West Bengal,2018,small-hydro,163.62
+West Bengal,2018,solar,40.67
+West Bengal,2019,bio-power,1295.07
+West Bengal,2019,coal,69240.63
+West Bengal,2019,hydro,2916.38
+West Bengal,2019,small-hydro,115.68
+West Bengal,2019,solar,64.29
+West Bengal,2020,bio-power,1349.72
+West Bengal,2020,coal,72701.35
+West Bengal,2020,hydro,3212.29
+West Bengal,2020,small-hydro,107.06
+West Bengal,2020,solar,73.9
+West Bengal,2021,bio-power,1593.95
+West Bengal,2021,coal,83203.11
+West Bengal,2021,hydro,3189.81
+West Bengal,2021,small-hydro,145.1
+West Bengal,2021,solar,98.24
+West Bengal,2022,bio-power,0.0
+West Bengal,2022,coal,87646.57
+West Bengal,2022,hydro,3423.73
+West Bengal,2022,small-hydro,204.43
+West Bengal,2022,solar,125.04
+West Bengal,2023,bio-power,1547.62
+West Bengal,2023,coal,89454.26
+West Bengal,2023,hydro,2816.4900000000002
+West Bengal,2023,small-hydro,204.46
+West Bengal,2023,solar,168.32
+West Bengal,2024,bio-power,1462.46
+West Bengal,2024,coal,93030.58
+West Bengal,2024,hydro,2649.7
+West Bengal,2024,small-hydro,183.3
+West Bengal,2024,solar,320.75
+West Bengal,2025,bio-power,482.73
+West Bengal,2025,coal,38054.33
+West Bengal,2025,hydro,1230.3200000000002
+West Bengal,2025,small-hydro,70.19
+West Bengal,2025,solar,143.42
