@@ -1,0 +1,252 @@
+﻿Source,Plant Name,Unit Name,State,Year,Plant Vintage,Technology,Sector,Annual Generation (In MU)
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 3,Karnataka,2025-26,2000-2009,Pressurised Heavy Water Reactor,central,658.23
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 2,Karnataka,2025-26,2000-2009,Pressurised Heavy Water Reactor,central,730.10
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 4,Karnataka,2025-26,2010-2019,Pressurised Heavy Water Reactor,central,873.35
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 1,Karnataka,2025-26,2000-2009,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 4,Gujarat,2025-26,2020-2029,Pressurised Heavy Water Reactor,central,1329.93
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 3,Gujarat,2025-26,2020-2029,Pressurised Heavy Water Reactor,central,1941.51
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 2,Gujarat,2025-26,1990-1999,Pressurised Heavy Water Reactor,central,480.83
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 1,Gujarat,2025-26,1990-1999,Pressurised Heavy Water Reactor,central,782.78
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 2,Tamil Nadu,2025-26,2010-2019,Pressurised Water Reactor,central,3724.21
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 1,Tamil Nadu,2025-26,2010-2019,Pressurised Water Reactor,central,2977.98
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 1,Tamil Nadu,2025-26,1980-1989,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 2,Tamil Nadu,2025-26,1980-1989,Pressurised Heavy Water Reactor,central,771.34
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 1,Uttar Pradesh,2025-26,1990-1999,Pressurised Heavy Water Reactor,central,67.08
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 2,Uttar Pradesh,2025-26,1990-1999,Pressurised Heavy Water Reactor,central,770.81
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 2,Rajasthan,2025-26,1980-1989,Pressurised Heavy Water Reactor,central,424.23
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 4,Rajasthan,2025-26,2000-2009,Pressurised Heavy Water Reactor,central,730.86
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 3,Rajasthan,2025-26,2000-2009,Pressurised Heavy Water Reactor,central,732.17
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 6,Rajasthan,2025-26,2010-2019,Pressurised Heavy Water Reactor,central,814.24
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 5,Rajasthan,2025-26,2010-2019,Pressurised Heavy Water Reactor,central,806.90
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 7,Rajasthan,2025-26,2020-2029,Pressurised Heavy Water Reactor,central,984.17
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 3,Maharashtra,2025-26,2000-2009,Pressurised Heavy Water Reactor,central,1967.10
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 2,Maharashtra,2025-26,1960-1969,Boiling Water Reactor,central,0.00
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 1,Maharashtra,2025-26,1960-1969,Boiling Water Reactor,central,0.00
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 4,Maharashtra,2025-26,2000-2009,Pressurised Heavy Water Reactor,central,1595.51
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 2,Karnataka,2024-25,2000-2009,Pressurised Heavy Water Reactor,central,1561.41
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 4,Karnataka,2024-25,2010-2019,Pressurised Heavy Water Reactor,central,1925.37
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 1,Karnataka,2024-25,2000-2009,Pressurised Heavy Water Reactor,central,1823.21
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 3,Karnataka,2024-25,2000-2009,Pressurised Heavy Water Reactor,central,2041.15
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 3,Gujarat,2024-25,2020-2029,Pressurised Heavy Water Reactor,central,4243.73
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 2,Gujarat,2024-25,1990-1999,Pressurised Heavy Water Reactor,central,1814.22
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 1,Gujarat,2024-25,1990-1999,Pressurised Heavy Water Reactor,central,1660.64
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 4,Gujarat,2024-25,2020-2029,Pressurised Heavy Water Reactor,central,4581.08
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 2,Tamil Nadu,2024-25,2010-2019,Pressurised Water Reactor,central,7407.10
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 1,Tamil Nadu,2024-25,2010-2019,Pressurised Water Reactor,central,8411.81
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 2,Tamil Nadu,2024-25,1980-1989,Pressurised Heavy Water Reactor,central,1671.62
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 1,Tamil Nadu,2024-25,1980-1989,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 1,Uttar Pradesh,2024-25,1990-1999,Pressurised Heavy Water Reactor,central,1841.30
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 2,Uttar Pradesh,2024-25,1990-1999,Pressurised Heavy Water Reactor,central,1785.53
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 6,Rajasthan,2024-25,2010-2019,Pressurised Heavy Water Reactor,central,1991.67
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 3,Rajasthan,2024-25,2000-2009,Pressurised Heavy Water Reactor,central,1014.42
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 1,Rajasthan,2024-25,1970-1979,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 2,Rajasthan,2024-25,1980-1989,Pressurised Heavy Water Reactor,central,1193.75
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 4,Rajasthan,2024-25,2000-2009,Pressurised Heavy Water Reactor,central,1510.87
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 5,Rajasthan,2024-25,2010-2019,Pressurised Heavy Water Reactor,central,1685.17
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 2,Maharashtra,2024-25,1960-1969,Boiling Water Reactor,central,0.00
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 4,Maharashtra,2024-25,2000-2009,Pressurised Heavy Water Reactor,central,3785.44
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 1,Maharashtra,2024-25,1960-1969,Boiling Water Reactor,central,0.00
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 3,Maharashtra,2024-25,2000-2009,Pressurised Heavy Water Reactor,central,4681.99
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 2,Karnataka,2023-24,2000-2009,Pressurised Heavy Water Reactor,central,1932.57
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 4,Karnataka,2023-24,2010-2019,Pressurised Heavy Water Reactor,central,2001.00
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 3,Karnataka,2023-24,2000-2009,Pressurised Heavy Water Reactor,central,1912.28
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 1,Karnataka,2023-24,2000-2009,Pressurised Heavy Water Reactor,central,1640.90
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 2,Gujarat,2023-24,1990-1999,Pressurised Heavy Water Reactor,central,1708.00
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 4,Gujarat,2023-24,2020-2029,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 1,Gujarat,2023-24,1990-1999,Pressurised Heavy Water Reactor,central,1967.13
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 3,Gujarat,2023-24,2020-2029,Pressurised Heavy Water Reactor,central,3871.61
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 1,Tamil Nadu,2023-24,2010-2019,Pressurised Water Reactor,central,6655.68
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 2,Tamil Nadu,2023-24,2010-2019,Pressurised Water Reactor,central,6562.95
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 1,Tamil Nadu,2023-24,1980-1989,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 2,Tamil Nadu,2023-24,1980-1989,Pressurised Heavy Water Reactor,central,1591.50
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 2,Uttar Pradesh,2023-24,1990-1999,Pressurised Heavy Water Reactor,central,1348.75
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 1,Uttar Pradesh,2023-24,1990-1999,Pressurised Heavy Water Reactor,central,1516.30
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 2,Rajasthan,2023-24,1980-1989,Pressurised Heavy Water Reactor,central,1591.20
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 6,Rajasthan,2023-24,2010-2019,Pressurised Heavy Water Reactor,central,1754.39
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 4,Rajasthan,2023-24,2000-2009,Pressurised Heavy Water Reactor,central,1676.28
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 1,Rajasthan,2023-24,1970-1979,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 3,Rajasthan,2023-24,2000-2009,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 5,Rajasthan,2023-24,2010-2019,Pressurised Heavy Water Reactor,central,1974.61
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 3,Maharashtra,2023-24,2000-2009,Pressurised Heavy Water Reactor,central,4147.49
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 1,Maharashtra,2023-24,1960-1969,Boiling Water Reactor,central,0.00
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 2,Maharashtra,2023-24,1960-1969,Boiling Water Reactor,central,0.00
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 4,Maharashtra,2023-24,2000-2009,Pressurised Heavy Water Reactor,central,3964.62
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 2,Karnataka,2022-23,2000-2009,Pressurised Heavy Water Reactor,central,1685.64
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 3,Karnataka,2022-23,2000-2009,Pressurised Heavy Water Reactor,central,2070.45
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 1,Karnataka,2022-23,2000-2009,Pressurised Heavy Water Reactor,central,1853.06
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 4,Karnataka,2022-23,2010-2019,Pressurised Heavy Water Reactor,central,1826.21
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 2,Gujarat,2022-23,1990-1999,Pressurised Heavy Water Reactor,central,1845.56
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 1,Gujarat,2022-23,1990-1999,Pressurised Heavy Water Reactor,central,1793.51
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 2,Tamil Nadu,2022-23,2010-2019,Pressurised Water Reactor,central,7191.32
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 1,Tamil Nadu,2022-23,2010-2019,Pressurised Water Reactor,central,7035.10
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 2,Tamil Nadu,2022-23,1980-1989,Pressurised Heavy Water Reactor,central,1786.29
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 1,Tamil Nadu,2022-23,1980-1989,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 1,Uttar Pradesh,2022-23,1990-1999,Pressurised Heavy Water Reactor,central,1539.14
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 2,Uttar Pradesh,2022-23,1990-1999,Pressurised Heavy Water Reactor,central,1647.65
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 1,Rajasthan,2022-23,1970-1979,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 4,Rajasthan,2022-23,2000-2009,Pressurised Heavy Water Reactor,central,1201.60
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 2,Rajasthan,2022-23,1980-1989,Pressurised Heavy Water Reactor,central,732.35
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 5,Rajasthan,2022-23,2010-2019,Pressurised Heavy Water Reactor,central,1658.80
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 3,Rajasthan,2022-23,2000-2009,Pressurised Heavy Water Reactor,central,1031.07
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 6,Rajasthan,2022-23,2010-2019,Pressurised Heavy Water Reactor,central,1915.64
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 3,Maharashtra,2022-23,2000-2009,Pressurised Heavy Water Reactor,central,4636.04
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 4,Maharashtra,2022-23,2000-2009,Pressurised Heavy Water Reactor,central,4349.52
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 2,Maharashtra,2022-23,1960-1969,Boiling Water Reactor,central,0.00
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 1,Maharashtra,2022-23,1960-1969,Boiling Water Reactor,central,0.00
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 3,Karnataka,2021-22,2000-2009,Pressurised Heavy Water Reactor,central,2051.67
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 1,Karnataka,2021-22,2000-2009,Pressurised Heavy Water Reactor,central,1604.27
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 4,Karnataka,2021-22,2010-2019,Pressurised Heavy Water Reactor,central,2014.20
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 2,Karnataka,2021-22,2000-2009,Pressurised Heavy Water Reactor,central,1802.10
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 2,Gujarat,2021-22,1990-1999,Pressurised Heavy Water Reactor,central,1651.64
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 1,Gujarat,2021-22,1990-1999,Pressurised Heavy Water Reactor,central,1851.88
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 1,Tamil Nadu,2021-22,2010-2019,Pressurised Water Reactor,central,7009.16
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 2,Tamil Nadu,2021-22,2010-2019,Pressurised Water Reactor,central,7527.09
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 1,Tamil Nadu,2021-22,1980-1989,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 2,Tamil Nadu,2021-22,1980-1989,Pressurised Heavy Water Reactor,central,1089.74
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 2,Uttar Pradesh,2021-22,1990-1999,Pressurised Heavy Water Reactor,central,1752.63
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 1,Uttar Pradesh,2021-22,1990-1999,Pressurised Heavy Water Reactor,central,1827.78
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 2,Rajasthan,2021-22,1980-1989,Pressurised Heavy Water Reactor,central,1452.82
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 1,Rajasthan,2021-22,1970-1979,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 5,Rajasthan,2021-22,2010-2019,Pressurised Heavy Water Reactor,central,1862.30
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 4,Rajasthan,2021-22,2000-2009,Pressurised Heavy Water Reactor,central,1722.03
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 3,Rajasthan,2021-22,2000-2009,Pressurised Heavy Water Reactor,central,1529.31
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 6,Rajasthan,2021-22,2010-2019,Pressurised Heavy Water Reactor,central,1667.81
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 2,Maharashtra,2021-22,1960-1969,Boiling Water Reactor,central,0.00
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 3,Maharashtra,2021-22,2000-2009,Pressurised Heavy Water Reactor,central,3828.66
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 1,Maharashtra,2021-22,1960-1969,Boiling Water Reactor,central,0.00
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 4,Maharashtra,2021-22,2000-2009,Pressurised Heavy Water Reactor,central,4773.61
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 2,Karnataka,2020-21,2000-2009,Pressurised Heavy Water Reactor,central,1580.24
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 1,Karnataka,2020-21,2000-2009,Pressurised Heavy Water Reactor,central,1887.11
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 3,Karnataka,2020-21,2000-2009,Pressurised Heavy Water Reactor,central,1602.42
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 4,Karnataka,2020-21,2010-2019,Pressurised Heavy Water Reactor,central,1937.55
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 1,Gujarat,2020-21,1990-1999,Pressurised Heavy Water Reactor,central,1817.34
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 2,Gujarat,2020-21,1990-1999,Pressurised Heavy Water Reactor,central,1895.86
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 2,Tamil Nadu,2020-21,2010-2019,Pressurised Water Reactor,central,6322.52
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 1,Tamil Nadu,2020-21,2010-2019,Pressurised Water Reactor,central,5622.64
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 2,Tamil Nadu,2020-21,1980-1989,Pressurised Heavy Water Reactor,central,1703.74
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 1,Tamil Nadu,2020-21,1980-1989,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 2,Uttar Pradesh,2020-21,1990-1999,Pressurised Heavy Water Reactor,central,1546.42
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 1,Uttar Pradesh,2020-21,1990-1999,Pressurised Heavy Water Reactor,central,1736.93
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 5,Rajasthan,2020-21,2010-2019,Pressurised Heavy Water Reactor,central,1426.78
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 4,Rajasthan,2020-21,2000-2009,Pressurised Heavy Water Reactor,central,1810.99
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 1,Rajasthan,2020-21,1970-1979,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 6,Rajasthan,2020-21,2010-2019,Pressurised Heavy Water Reactor,central,2014.02
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 2,Rajasthan,2020-21,1980-1989,Pressurised Heavy Water Reactor,central,428.69
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 3,Rajasthan,2020-21,2000-2009,Pressurised Heavy Water Reactor,central,1674.33
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 4,Maharashtra,2020-21,2000-2009,Pressurised Heavy Water Reactor,central,3668.67
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 1,Maharashtra,2020-21,1960-1969,Boiling Water Reactor,central,0.00
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 2,Maharashtra,2020-21,1960-1969,Boiling Water Reactor,central,340.77
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 3,Maharashtra,2020-21,2000-2009,Pressurised Heavy Water Reactor,central,3876.16
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 1,Karnataka,2019-20,2000-2009,Pressurised Heavy Water Reactor,central,1829.74
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 2,Karnataka,2019-20,2000-2009,Pressurised Heavy Water Reactor,central,1792.46
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 4,Karnataka,2019-20,2010-2019,Pressurised Heavy Water Reactor,central,1807.69
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 3,Karnataka,2019-20,2000-2009,Pressurised Heavy Water Reactor,central,1815.14
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 2,Gujarat,2019-20,1990-1999,Pressurised Heavy Water Reactor,central,1961.70
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 1,Gujarat,2019-20,1990-1999,Pressurised Heavy Water Reactor,central,1467.03
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 2,Tamil Nadu,2019-20,2010-2019,Pressurised Water Reactor,central,4039.45
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 1,Tamil Nadu,2019-20,2010-2019,Pressurised Water Reactor,central,7109.22
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 1,Tamil Nadu,2019-20,1980-1989,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 2,Tamil Nadu,2019-20,1980-1989,Pressurised Heavy Water Reactor,central,1811.31
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 1,Uttar Pradesh,2019-20,1990-1999,Pressurised Heavy Water Reactor,central,1900.32
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 2,Uttar Pradesh,2019-20,1990-1999,Pressurised Heavy Water Reactor,central,1890.71
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 2,Rajasthan,2019-20,1980-1989,Pressurised Heavy Water Reactor,central,1386.01
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 6,Rajasthan,2019-20,2010-2019,Pressurised Heavy Water Reactor,central,1689.82
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 4,Rajasthan,2019-20,2000-2009,Pressurised Heavy Water Reactor,central,1687.40
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 5,Rajasthan,2019-20,2010-2019,Pressurised Heavy Water Reactor,central,1939.42
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 3,Rajasthan,2019-20,2000-2009,Pressurised Heavy Water Reactor,central,1732.66
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 1,Rajasthan,2019-20,1970-1979,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 3,Maharashtra,2019-20,2000-2009,Pressurised Heavy Water Reactor,central,3816.05
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 4,Maharashtra,2019-20,2000-2009,Pressurised Heavy Water Reactor,central,4511.72
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 2,Maharashtra,2019-20,1960-1969,Boiling Water Reactor,central,1255.28
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 1,Maharashtra,2019-20,1960-1969,Boiling Water Reactor,central,953.50
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 4,Karnataka,2018-19,2010-2019,Pressurised Heavy Water Reactor,central,1987.43
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 1,Karnataka,2018-19,2000-2009,Pressurised Heavy Water Reactor,central,1590.28
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 3,Karnataka,2018-19,2000-2009,Pressurised Heavy Water Reactor,central,1641.02
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 2,Karnataka,2018-19,2000-2009,Pressurised Heavy Water Reactor,central,1919.71
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 1,Gujarat,2018-19,1990-1999,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 2,Gujarat,2018-19,1990-1999,Pressurised Heavy Water Reactor,central,999.89
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 2,Tamil Nadu,2018-19,2010-2019,Pressurised Water Reactor,central,3261.41
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 1,Tamil Nadu,2018-19,2010-2019,Pressurised Water Reactor,central,2797.34
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 2,Tamil Nadu,2018-19,1980-1989,Pressurised Heavy Water Reactor,central,1491.19
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 1,Tamil Nadu,2018-19,1980-1989,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 2,Uttar Pradesh,2018-19,1990-1999,Pressurised Heavy Water Reactor,central,1660.08
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 1,Uttar Pradesh,2018-19,1990-1999,Pressurised Heavy Water Reactor,central,1496.31
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 1,Rajasthan,2018-19,1970-1979,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 2,Rajasthan,2018-19,1980-1989,Pressurised Heavy Water Reactor,central,958.42
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 3,Rajasthan,2018-19,2000-2009,Pressurised Heavy Water Reactor,central,1548.98
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 4,Rajasthan,2018-19,2000-2009,Pressurised Heavy Water Reactor,central,1785.93
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 6,Rajasthan,2018-19,2010-2019,Pressurised Heavy Water Reactor,central,1985.62
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 5,Rajasthan,2018-19,2010-2019,Pressurised Heavy Water Reactor,central,1719.98
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 2,Maharashtra,2018-19,1960-1969,Boiling Water Reactor,central,936.89
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 1,Maharashtra,2018-19,1960-1969,Boiling Water Reactor,central,1321.51
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 3,Maharashtra,2018-19,2000-2009,Pressurised Heavy Water Reactor,central,4353.63
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 4,Maharashtra,2018-19,2000-2009,Pressurised Heavy Water Reactor,central,4154.18
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 1,Karnataka,2017-18,2000-2009,Pressurised Heavy Water Reactor,central,1916.03
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 3,Karnataka,2017-18,2000-2009,Pressurised Heavy Water Reactor,central,1870.12
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 2,Karnataka,2017-18,2000-2009,Pressurised Heavy Water Reactor,central,1874.41
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 4,Karnataka,2017-18,2010-2019,Pressurised Heavy Water Reactor,central,1798.07
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 2,Gujarat,2017-18,1990-1999,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 1,Gujarat,2017-18,1990-1999,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 2,Tamil Nadu,2017-18,2010-2019,Pressurised Water Reactor,central,4254.15
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 1,Tamil Nadu,2017-18,2010-2019,Pressurised Water Reactor,central,4355.25
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 1,Tamil Nadu,2017-18,1980-1989,Pressurised Heavy Water Reactor,central,1194.34
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 2,Tamil Nadu,2017-18,1980-1989,Pressurised Heavy Water Reactor,central,1781.34
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 1,Uttar Pradesh,2017-18,1990-1999,Pressurised Heavy Water Reactor,central,1836.08
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 2,Uttar Pradesh,2017-18,1990-1999,Pressurised Heavy Water Reactor,central,1800.31
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 2,Rajasthan,2017-18,1980-1989,Pressurised Heavy Water Reactor,central,1555.68
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 4,Rajasthan,2017-18,2000-2009,Pressurised Heavy Water Reactor,central,1655.94
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 3,Rajasthan,2017-18,2000-2009,Pressurised Heavy Water Reactor,central,1877.10
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 5,Rajasthan,2017-18,2010-2019,Pressurised Heavy Water Reactor,central,1973.16
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 1,Rajasthan,2017-18,1970-1979,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 6,Rajasthan,2017-18,2010-2019,Pressurised Heavy Water Reactor,central,1538.06
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 2,Maharashtra,2017-18,1960-1969,Boiling Water Reactor,central,999.87
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 1,Maharashtra,2017-18,1960-1969,Boiling Water Reactor,central,183.82
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 4,Maharashtra,2017-18,2000-2009,Pressurised Heavy Water Reactor,central,1996.13
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 3,Maharashtra,2017-18,2000-2009,Pressurised Heavy Water Reactor,central,3680.54
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 4,Karnataka,2016-17,2010-2019,Pressurised Heavy Water Reactor,central,2017.63
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 1,Karnataka,2016-17,2000-2009,Pressurised Heavy Water Reactor,central,1740.85
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 2,Karnataka,2016-17,2000-2009,Pressurised Heavy Water Reactor,central,1712.58
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 3,Karnataka,2016-17,2000-2009,Pressurised Heavy Water Reactor,central,1062.43
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 1,Gujarat,2016-17,1990-1999,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 2,Gujarat,2016-17,1990-1999,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 1,Tamil Nadu,2016-17,2010-2019,Pressurised Water Reactor,central,6291.61
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 2,Tamil Nadu,2016-17,2010-2019,Pressurised Water Reactor,central,174.41
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 2,Tamil Nadu,2016-17,1980-1989,Pressurised Heavy Water Reactor,central,1739.24
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 1,Tamil Nadu,2016-17,1980-1989,Pressurised Heavy Water Reactor,central,1465.43
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 2,Uttar Pradesh,2016-17,1990-1999,Pressurised Heavy Water Reactor,central,1723.28
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 1,Uttar Pradesh,2016-17,1990-1999,Pressurised Heavy Water Reactor,central,1655.61
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 6,Rajasthan,2016-17,2010-2019,Pressurised Heavy Water Reactor,central,1120.58
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 3,Rajasthan,2016-17,2000-2009,Pressurised Heavy Water Reactor,central,1617.16
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 4,Rajasthan,2016-17,2000-2009,Pressurised Heavy Water Reactor,central,1908.62
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 5,Rajasthan,2016-17,2010-2019,Pressurised Heavy Water Reactor,central,1717.44
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 2,Rajasthan,2016-17,1980-1989,Pressurised Heavy Water Reactor,central,1108.79
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 1,Rajasthan,2016-17,1970-1979,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 1,Maharashtra,2016-17,1960-1969,Boiling Water Reactor,central,1241.39
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 2,Maharashtra,2016-17,1960-1969,Boiling Water Reactor,central,934.37
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 3,Maharashtra,2016-17,2000-2009,Pressurised Heavy Water Reactor,central,4156.08
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 4,Maharashtra,2016-17,2000-2009,Pressurised Heavy Water Reactor,central,4528.35
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 1,Karnataka,2015-16,2000-2009,Pressurised Heavy Water Reactor,central,1918.59
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 2,Karnataka,2015-16,2000-2009,Pressurised Heavy Water Reactor,central,1834.13
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 3,Karnataka,2015-16,2000-2009,Pressurised Heavy Water Reactor,central,2077.63
+nuclear,Kaiga Generating Station,Kaiga Generating Station Unit 4,Karnataka,2015-16,2010-2019,Pressurised Heavy Water Reactor,central,1841.65
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 2,Gujarat,2015-16,1990-1999,Pressurised Heavy Water Reactor,central,421.10
+nuclear,Kakrapar Atomic Power Station,Kakrapar Atomic Power Station Unit 1,Gujarat,2015-16,1990-1999,Pressurised Heavy Water Reactor,central,1610.17
+nuclear,Kudankulam Atomic Power Project,Kudankulam Atomic Power Project Unit 1,Tamil Nadu,2015-16,2010-2019,Pressurised Water Reactor,central,2245.66
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 2,Tamil Nadu,2015-16,1980-1989,Pressurised Heavy Water Reactor,central,1349.96
+nuclear,Madras Atomic Power Station,Madras Atomic Power Station Unit 1,Tamil Nadu,2015-16,1980-1989,Pressurised Heavy Water Reactor,central,1861.21
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 1,Uttar Pradesh,2015-16,1990-1999,Pressurised Heavy Water Reactor,central,1804.28
+nuclear,Narora Atomic Power Station,Narora Atomic Power Station Unit 2,Uttar Pradesh,2015-16,1990-1999,Pressurised Heavy Water Reactor,central,1630.98
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 4,Rajasthan,2015-16,2000-2009,Pressurised Heavy Water Reactor,central,1665.51
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 5,Rajasthan,2015-16,2010-2019,Pressurised Heavy Water Reactor,central,1947.58
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 3,Rajasthan,2015-16,2000-2009,Pressurised Heavy Water Reactor,central,1772.59
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 1,Rajasthan,2015-16,1970-1979,Pressurised Heavy Water Reactor,central,0.00
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 2,Rajasthan,2015-16,1980-1989,Pressurised Heavy Water Reactor,central,1226.04
+nuclear,Rajasthan Atomic Power Station,Rajasthan Atomic Power Station Unit 6,Rajasthan,2015-16,2010-2019,Pressurised Heavy Water Reactor,central,1770.61
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 1,Maharashtra,2015-16,1960-1969,Boiling Water Reactor,central,789.99
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 3,Maharashtra,2015-16,2000-2009,Pressurised Heavy Water Reactor,central,4531.24
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 4,Maharashtra,2015-16,2000-2009,Pressurised Heavy Water Reactor,central,4571.80
+nuclear,Tarapur Atomic Power Station,Tarapur Atomic Power Station Unit 2,Maharashtra,2015-16,1960-1969,Boiling Water Reactor,central,500.07
+,,,,,,,,
+"Copyright © 2025, NITI Aayog",,,,,,,,
+https://iced.niti.gov.in,,,,,,,,
+"The information on this platform is mainly taken from official sources. However, in some cases, a few assumptions have been made and some data derived or assumed and is given in the detailed. While we believe that the data is reliable and adequately comprehensive, NITI Aayog ICED does not take guarantee that such information is in all respects accurate. NITI Aayog ICED does not accept any liability for any consequences resulting from the use of this data.sss",,,,,,,,

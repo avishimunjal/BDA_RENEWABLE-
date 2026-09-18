@@ -1,0 +1,679 @@
+﻿Source,Plant Name,State,Year,Sector,Annual Generation (In MU)
+oil-gas,Agartala Gas Turbine Power Station,Tripura,2025-26,central,223.99
+oil-gas,Anta Gas Combined Cycle Gas Turbine Power Plant,Rajasthan,2025-26,central,162.60
+oil-gas,Auraiya Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2025-26,central,225.03
+oil-gas,Baramura Gas Thermal Project,Tripura,2025-26,state,0.00
+oil-gas,Basin Bridge Gas Turbine Power Station,Tamil Nadu,2025-26,state,0.00
+oil-gas,Dadri Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2025-26,central,264.10
+oil-gas,DGEN Mega Combined Cycle Gas Turbine Power Plant,Gujarat,2025-26,private,860.24
+oil-gas,Dholpur Combined Cycle Power Station,Rajasthan,2025-26,state,5.31
+oil-gas,Dhuvaran Gas Based Combined Cycle Power Plant,Gujarat,2025-26,state,52.30
+oil-gas,Essar Hazira Combined Cycle Gas Turbine Power Plant,Gujarat,2025-26,private,0.00
+oil-gas,Faridabad NTPC Gas Combined Cycle Gas Turbine Power Plant,Haryana,2025-26,central,134.26
+oil-gas,Gama Combined Cycle Power Plant,Uttarakhand,2025-26,private,140.57
+oil-gas,GMR Rajahmundry Energy Ltd.,Andhra Pradesh,2025-26,private,0.00
+oil-gas,GMR Vemagiri Combined Cycle Power Plant,Andhra Pradesh,2025-26,private,0.00
+oil-gas,GVK Jegurupadu Gas Combined Cycle Gas Turbine,Andhra Pradesh,2025-26,state,0.00
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant Ext.,Gujarat,2025-26,state,139.00
+oil-gas,I.P. Gas Turbine Power Station,Delhi,2025-26,state,141.99
+oil-gas,Jhanor-Gandhar Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2025-26,central,266.58
+oil-gas,Karaikal Gas Power Plant,Puducherry,2025-26,state,59.98
+oil-gas,Kashipur Combined Cycle Power Plant Phase I,Uttarakhand,2025-26,private,320.06
+oil-gas,Kathalguri (Assam) Gas Combined Cycle Gas Turbine Power Plant,Assam,2025-26,central,540.51
+oil-gas,Kawas Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2025-26,central,262.39
+oil-gas,Kayamkulam (Rajiv Gandhi) Gas Combined Cycle Power Plant,Kerala,2025-26,central,0.00
+oil-gas,Kovilkalappal (Thirumakotai) Gas Combined Cycle Gas Turbine Power Station,Tamil Nadu,2025-26,state,0.00
+oil-gas,Kuttalam Gas Turbine Power Station,Tamil Nadu,2025-26,state,244.21
+oil-gas,Lakwa Gas Turbine Power Station,Assam,2025-26,state,130.83
+oil-gas,Lakwa GT Replacement Power Project (LRPP ),Assam,2025-26,state,200.80
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase II,Andhra Pradesh,2025-26,private,237.95
+oil-gas,Namrup Thermal Power Station (NTPS),Assam,2025-26,state,362.08
+oil-gas,Pillaiperumalnallur (PPN) Power Plant Phase I,Tamil Nadu,2025-26,private,0.00
+oil-gas,Pipavav Combined Cycle Gas Turbine Power Plant,Gujarat,2025-26,state,42.68
+oil-gas,Pragati-I Combined Cycle Gas Power Station,Delhi,2025-26,state,613.57
+oil-gas,Pragati-III Combined Cycle Gas Power Project,Delhi,2025-26,state,1024.56
+oil-gas,Ramgarh Gas Thermal Power Station,Rajasthan,2025-26,state,248.19
+oil-gas,Ratnagiri Gas and Power Private Ltd.,Maharashtra,2025-26,central,460.96
+oil-gas,Rokhia Gas Thermal Project,Tripura,2025-26,state,59.54
+oil-gas,SUGEN Combined Cycle Power Plant,Gujarat,2025-26,private,1669.44
+oil-gas,Tripura (Monarchak) Gas based Combined Cycle Power Plant,Tripura,2025-26,central,236.98
+oil-gas,Tripura (Palatana) Combined Cycle Gas Turbine Power Plant,Tripura,2025-26,central,1576.25
+oil-gas,Trombay Unit 7 Gas Power Plant,Maharashtra,2025-26,private,429.76
+oil-gas,UNOSUGEN Combined Cycle Power Plant,Gujarat,2025-26,private,344.79
+oil-gas,Uran Gas Combined Cycle Gas Turbine,Maharashtra,2025-26,state,1012.82
+oil-gas,Utran Gas Based Power Station Combined Cycle Power Plant,Gujarat,2025-26,state,200.28
+oil-gas,Valuthur Gas Turbine Power Station,Tamil Nadu,2025-26,state,275.73
+oil-gas,Yelahanka Combined Cycle Power Plant,Karnataka,2025-26,state,214.07
+oil-gas,Agartala Gas Turbine Power Station,Tripura,2024-25,central,543.04
+oil-gas,Anta Gas Combined Cycle Gas Turbine Power Plant,Rajasthan,2024-25,central,423.38
+oil-gas,Auraiya Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2024-25,central,558.31
+oil-gas,Baramura Gas Thermal Project,Tripura,2024-25,state,3.46
+oil-gas,Basin Bridge Gas Turbine Power Station,Tamil Nadu,2024-25,state,0.00
+oil-gas,BSES Kochi Combined Cycle Gas Turbine Power Plant,Kerala,2024-25,private,0.00
+oil-gas,Dadri Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2024-25,central,689.25
+oil-gas,DGEN Mega Combined Cycle Gas Turbine Power Plant,Gujarat,2024-25,private,1647.61
+oil-gas,Dholpur Combined Cycle Power Station,Rajasthan,2024-25,state,50.07
+oil-gas,Dhuvaran Gas Based Combined Cycle Power Plant,Gujarat,2024-25,state,374.09
+oil-gas,Essar Hazira Combined Cycle Gas Turbine Power Plant,Gujarat,2024-25,private,0.00
+oil-gas,Faridabad NTPC Gas Combined Cycle Gas Turbine Power Plant,Haryana,2024-25,central,215.37
+oil-gas,Gama Combined Cycle Power Plant,Uttarakhand,2024-25,private,300.42
+oil-gas,Gautami Gas Combined Cycle Gas Turbine Power Plant Stage- I,Andhra Pradesh,2024-25,private,0.00
+oil-gas,GMR Rajahmundry Energy Ltd.,Andhra Pradesh,2024-25,private,0.00
+oil-gas,GMR Vemagiri Combined Cycle Power Plant,Andhra Pradesh,2024-25,private,0.00
+oil-gas,Goa Combined Cycle Power Station,Goa,2024-25,private,0.00
+oil-gas,Godavari (Kakinada) Gas Combined Cycle Power Plant Phase I,Andhra Pradesh,2024-25,private,0.00
+oil-gas,GVK Jegurupadu Gas Combined Cycle Gas Turbine,Andhra Pradesh,2024-25,state,30.97
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant Ext.,Gujarat,2024-25,state,246.78
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2024-25,state,0.00
+oil-gas,I.P. Gas Turbine Power Station,Delhi,2024-25,state,257.52
+oil-gas,Jhanor-Gandhar Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2024-25,central,676.58
+oil-gas,Karaikal Gas Power Plant,Puducherry,2024-25,state,204.95
+oil-gas,Karuppur Combined Cycle Power Plant,Tamil Nadu,2024-25,private,0.00
+oil-gas,Kashipur Combined Cycle Power Plant Phase I,Uttarakhand,2024-25,private,537.34
+oil-gas,Kathalguri (Assam) Gas Combined Cycle Gas Turbine Power Plant,Assam,2024-25,central,1578.70
+oil-gas,Kawas Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2024-25,central,613.47
+oil-gas,Kayamkulam (Rajiv Gandhi) Gas Combined Cycle Power Plant,Kerala,2024-25,central,0.00
+oil-gas,Konaseema Combined Cycle Power Plant Phase I,Andhra Pradesh,2024-25,private,0.00
+oil-gas,Kovilkalappal (Thirumakotai) Gas Combined Cycle Gas Turbine Power Station,Tamil Nadu,2024-25,state,0.00
+oil-gas,Kuttalam Gas Turbine Power Station,Tamil Nadu,2024-25,state,648.85
+oil-gas,Lakwa Gas Turbine Power Station,Assam,2024-25,state,470.18
+oil-gas,Lakwa GT Replacement Power Project (LRPP ),Assam,2024-25,state,462.43
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase I,Andhra Pradesh,2024-25,private,0.00
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase II,Andhra Pradesh,2024-25,private,3.07
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase III,Andhra Pradesh,2024-25,private,0.00
+oil-gas,Mangaon Combined Cycle Power Plant,Maharashtra,2024-25,private,0.00
+oil-gas,Namrup Thermal Power Station (NTPS),Assam,2024-25,state,896.68
+oil-gas,Paguthan Combined Cycle Power Plant,Gujarat,2024-25,private,0.00
+oil-gas,Pampore Gas Turbine Station,Jammu and Kashmir,2024-25,state,0.00
+oil-gas,Pillaiperumalnallur (PPN) Power Plant Phase I,Tamil Nadu,2024-25,private,0.00
+oil-gas,Pipavav Combined Cycle Gas Turbine Power Plant,Gujarat,2024-25,state,419.94
+oil-gas,Pragati-I Combined Cycle Gas Power Station,Delhi,2024-25,state,744.27
+oil-gas,Pragati-III Combined Cycle Gas Power Project,Delhi,2024-25,state,2876.22
+oil-gas,Ramgarh Gas Thermal Power Station,Rajasthan,2024-25,state,448.45
+oil-gas,Ratnagiri Gas and Power Private Ltd.,Maharashtra,2024-25,central,1443.14
+oil-gas,Rithala Gas Power Plant,Delhi,2024-25,private,0.00
+oil-gas,Rokhia Gas Thermal Project,Tripura,2024-25,state,181.10
+oil-gas,Samalkot / Peddapuram Power Station Phase I,Andhra Pradesh,2024-25,private,0.00
+oil-gas,SUGEN Combined Cycle Power Plant,Gujarat,2024-25,private,3424.63
+oil-gas,Tripura (Monarchak) Gas based Combined Cycle Power Plant,Tripura,2024-25,central,489.29
+oil-gas,Tripura (Palatana) Combined Cycle Gas Turbine Power Plant,Tripura,2024-25,central,3882.76
+oil-gas,Trombay Unit 7 Gas Power Plant,Maharashtra,2024-25,private,1475.20
+oil-gas,UNOSUGEN Combined Cycle Power Plant,Gujarat,2024-25,private,684.12
+oil-gas,Uran Gas Combined Cycle Gas Turbine,Maharashtra,2024-25,state,2472.63
+oil-gas,Utran Gas Based Power Station Combined Cycle Power Plant,Gujarat,2024-25,state,324.48
+oil-gas,Vadodara Station I (GIPCL) Combined Cycle Power Plant,Gujarat,2024-25,private,0.00
+oil-gas,Vadodara Station II (GIPCL) Combined Cycle Power Plant,Gujarat,2024-25,private,0.00
+oil-gas,Valantharavai Combined Cycle Gas Power Plant,Tamil Nadu,2024-25,private,0.00
+oil-gas,Valuthur Gas Turbine Power Station,Tamil Nadu,2024-25,state,966.92
+oil-gas,Vijjeswaram Gas Power Plant,Andhra Pradesh,2024-25,private,0.00
+oil-gas,Yelahanka Combined Cycle Power Plant,Karnataka,2024-25,state,314.37
+oil-gas,Agartala Gas Turbine Power Station,Tripura,2023-24,central,640.15
+oil-gas,Anta Gas Combined Cycle Gas Turbine Power Plant,Rajasthan,2023-24,central,354.52
+oil-gas,Auraiya Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2023-24,central,698.05
+oil-gas,Baramura Gas Thermal Project,Tripura,2023-24,state,157.26
+oil-gas,Basin Bridge Gas Turbine Power Station,Tamil Nadu,2023-24,state,0.03
+oil-gas,BSES Kochi Combined Cycle Gas Turbine Power Plant,Kerala,2023-24,private,0.00
+oil-gas,Dadri Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2023-24,central,921.47
+oil-gas,DGEN Mega Combined Cycle Gas Turbine Power Plant,Gujarat,2023-24,private,997.49
+oil-gas,Dholpur Combined Cycle Power Station,Rajasthan,2023-24,state,28.17
+oil-gas,Dhuvaran Gas Based Combined Cycle Power Plant,Gujarat,2023-24,state,294.96
+oil-gas,Essar Hazira Combined Cycle Gas Turbine Power Plant,Gujarat,2023-24,private,0.00
+oil-gas,Faridabad NTPC Gas Combined Cycle Gas Turbine Power Plant,Haryana,2023-24,central,137.28
+oil-gas,Gama Combined Cycle Power Plant,Uttarakhand,2023-24,private,251.89
+oil-gas,Gautami Gas Combined Cycle Gas Turbine Power Plant Stage- I,Andhra Pradesh,2023-24,private,0.00
+oil-gas,GMR Rajahmundry Energy Ltd.,Andhra Pradesh,2023-24,private,0.00
+oil-gas,GMR Vemagiri Combined Cycle Power Plant,Andhra Pradesh,2023-24,private,0.00
+oil-gas,Goa Combined Cycle Power Station,Goa,2023-24,private,0.00
+oil-gas,Godavari (Kakinada) Gas Combined Cycle Power Plant Phase I,Andhra Pradesh,2023-24,private,0.00
+oil-gas,GVK Jegurupadu Gas Combined Cycle Gas Turbine,Andhra Pradesh,2023-24,state,2.41
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant Ext.,Gujarat,2023-24,state,30.55
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2023-24,state,0.00
+oil-gas,I.P. Gas Turbine Power Station,Delhi,2023-24,state,259.97
+oil-gas,Jhanor-Gandhar Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2023-24,central,683.49
+oil-gas,Karaikal Gas Power Plant,Puducherry,2023-24,state,224.10
+oil-gas,Karuppur Combined Cycle Power Plant,Tamil Nadu,2023-24,private,0.00
+oil-gas,Kashipur Combined Cycle Power Plant Phase I,Uttarakhand,2023-24,private,357.89
+oil-gas,Kathalguri (Assam) Gas Combined Cycle Gas Turbine Power Plant,Assam,2023-24,central,1696.52
+oil-gas,Kawas Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2023-24,central,629.53
+oil-gas,Kayamkulam (Rajiv Gandhi) Gas Combined Cycle Power Plant,Kerala,2023-24,central,0.00
+oil-gas,Konaseema Combined Cycle Power Plant Phase I,Andhra Pradesh,2023-24,private,0.00
+oil-gas,Kovilkalappal (Thirumakotai) Gas Combined Cycle Gas Turbine Power Station,Tamil Nadu,2023-24,state,47.27
+oil-gas,Kuttalam Gas Turbine Power Station,Tamil Nadu,2023-24,state,694.61
+oil-gas,Lakwa Gas Turbine Power Station,Assam,2023-24,state,367.77
+oil-gas,Lakwa GT Replacement Power Project (LRPP ),Assam,2023-24,state,478.90
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase I,Andhra Pradesh,2023-24,private,0.00
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase II,Andhra Pradesh,2023-24,private,0.00
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase III,Andhra Pradesh,2023-24,private,0.00
+oil-gas,Mangaon Combined Cycle Power Plant,Maharashtra,2023-24,private,0.00
+oil-gas,Namrup Thermal Power Station (NTPS),Assam,2023-24,state,832.08
+oil-gas,Paguthan Combined Cycle Power Plant,Gujarat,2023-24,private,0.00
+oil-gas,Pampore Gas Turbine Station,Jammu and Kashmir,2023-24,state,0.00
+oil-gas,Pillaiperumalnallur (PPN) Power Plant Phase I,Tamil Nadu,2023-24,private,0.00
+oil-gas,Pipavav Combined Cycle Gas Turbine Power Plant,Gujarat,2023-24,state,229.85
+oil-gas,Pragati-I Combined Cycle Gas Power Station,Delhi,2023-24,state,841.32
+oil-gas,Pragati-III Combined Cycle Gas Power Project,Delhi,2023-24,state,2653.85
+oil-gas,Ramgarh Gas Thermal Power Station,Rajasthan,2023-24,state,761.92
+oil-gas,Ratnagiri Gas and Power Private Ltd.,Maharashtra,2023-24,central,1220.38
+oil-gas,Rithala Gas Power Plant,Delhi,2023-24,private,0.00
+oil-gas,Rokhia Gas Thermal Project,Tripura,2023-24,state,321.43
+oil-gas,Samalkot / Peddapuram Power Station Phase I,Andhra Pradesh,2023-24,private,0.00
+oil-gas,SUGEN Combined Cycle Power Plant,Gujarat,2023-24,private,3707.67
+oil-gas,Tripura (Monarchak) Gas based Combined Cycle Power Plant,Tripura,2023-24,central,660.52
+oil-gas,Tripura (Palatana) Combined Cycle Gas Turbine Power Plant,Tripura,2023-24,central,4573.95
+oil-gas,Trombay Unit 7 Gas Power Plant,Maharashtra,2023-24,private,981.43
+oil-gas,UNOSUGEN Combined Cycle Power Plant,Gujarat,2023-24,private,1332.41
+oil-gas,Uran Gas Combined Cycle Gas Turbine,Maharashtra,2023-24,state,1769.02
+oil-gas,Utran Gas Based Power Station Combined Cycle Power Plant,Gujarat,2023-24,state,279.11
+oil-gas,Vadodara Station I (GIPCL) Combined Cycle Power Plant,Gujarat,2023-24,private,0.00
+oil-gas,Vadodara Station II (GIPCL) Combined Cycle Power Plant,Gujarat,2023-24,private,0.00
+oil-gas,Valantharavai Combined Cycle Gas Power Plant,Tamil Nadu,2023-24,private,0.00
+oil-gas,Valuthur Gas Turbine Power Station,Tamil Nadu,2023-24,state,1176.71
+oil-gas,Vijjeswaram Gas Power Plant,Andhra Pradesh,2023-24,private,0.00
+oil-gas,Agartala Gas Turbine Power Station,Tripura,2022-23,central,845.61
+oil-gas,Anta Gas Combined Cycle Gas Turbine Power Plant,Rajasthan,2022-23,central,133.99
+oil-gas,Auraiya Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2022-23,central,224.34
+oil-gas,Baramura Gas Thermal Project,Tripura,2022-23,state,301.58
+oil-gas,Basin Bridge Gas Turbine Power Station,Tamil Nadu,2022-23,state,0.83
+oil-gas,BSES Kochi Combined Cycle Gas Turbine Power Plant,Kerala,2022-23,private,0.00
+oil-gas,Dadri Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2022-23,central,683.89
+oil-gas,DGEN Mega Combined Cycle Gas Turbine Power Plant,Gujarat,2022-23,private,0.00
+oil-gas,Dholpur Combined Cycle Power Station,Rajasthan,2022-23,state,0.00
+oil-gas,Dhuvaran Gas Based Combined Cycle Power Plant,Gujarat,2022-23,state,1.63
+oil-gas,Essar Hazira Combined Cycle Gas Turbine Power Plant,Gujarat,2022-23,private,0.00
+oil-gas,Faridabad NTPC Gas Combined Cycle Gas Turbine Power Plant,Haryana,2022-23,central,2.59
+oil-gas,Gama Combined Cycle Power Plant,Uttarakhand,2022-23,private,0.00
+oil-gas,Gautami Gas Combined Cycle Gas Turbine Power Plant Stage- I,Andhra Pradesh,2022-23,private,0.00
+oil-gas,GMR Rajahmundry Energy Ltd.,Andhra Pradesh,2022-23,private,0.00
+oil-gas,GMR Vemagiri Combined Cycle Power Plant,Andhra Pradesh,2022-23,private,0.00
+oil-gas,Goa Combined Cycle Power Station,Goa,2022-23,private,0.00
+oil-gas,Godavari (Kakinada) Gas Combined Cycle Power Plant Phase I,Andhra Pradesh,2022-23,private,0.00
+oil-gas,GVK Jegurupadu Gas Combined Cycle Gas Turbine,Andhra Pradesh,2022-23,state,244.66
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant Ext.,Gujarat,2022-23,state,0.97
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2022-23,state,0.00
+oil-gas,I.P. Gas Turbine Power Station,Delhi,2022-23,state,331.88
+oil-gas,Jhanor-Gandhar Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2022-23,central,267.60
+oil-gas,Karaikal Gas Power Plant,Puducherry,2022-23,state,233.07
+oil-gas,Karuppur Combined Cycle Power Plant,Tamil Nadu,2022-23,private,55.15
+oil-gas,Kashipur Combined Cycle Power Plant Phase I,Uttarakhand,2022-23,private,0.00
+oil-gas,Kathalguri (Assam) Gas Combined Cycle Gas Turbine Power Plant,Assam,2022-23,central,1689.86
+oil-gas,Kawas Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2022-23,central,264.89
+oil-gas,Kayamkulam (Rajiv Gandhi) Gas Combined Cycle Power Plant,Kerala,2022-23,central,0.00
+oil-gas,Konaseema Combined Cycle Power Plant Phase I,Andhra Pradesh,2022-23,private,0.00
+oil-gas,Kovilkalappal (Thirumakotai) Gas Combined Cycle Gas Turbine Power Station,Tamil Nadu,2022-23,state,169.92
+oil-gas,Kuttalam Gas Turbine Power Station,Tamil Nadu,2022-23,state,510.82
+oil-gas,Lakwa Gas Turbine Power Station,Assam,2022-23,state,539.00
+oil-gas,Lakwa GT Replacement Power Project (LRPP ),Assam,2022-23,state,504.62
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase I,Andhra Pradesh,2022-23,private,0.00
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase II,Andhra Pradesh,2022-23,private,0.00
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase III,Andhra Pradesh,2022-23,private,0.00
+oil-gas,Mangaon Combined Cycle Power Plant,Maharashtra,2022-23,private,0.00
+oil-gas,Namrup Thermal Power Station (NTPS),Assam,2022-23,state,633.36
+oil-gas,Paguthan Combined Cycle Power Plant,Gujarat,2022-23,private,0.00
+oil-gas,Pampore Gas Turbine Station,Jammu and Kashmir,2022-23,state,0.00
+oil-gas,Pillaiperumalnallur (PPN) Power Plant Phase I,Tamil Nadu,2022-23,private,69.11
+oil-gas,Pipavav Combined Cycle Gas Turbine Power Plant,Gujarat,2022-23,state,6.56
+oil-gas,Pragati-I Combined Cycle Gas Power Station,Delhi,2022-23,state,854.53
+oil-gas,Pragati-III Combined Cycle Gas Power Project,Delhi,2022-23,state,2597.89
+oil-gas,Ramgarh Gas Thermal Power Station,Rajasthan,2022-23,state,1316.34
+oil-gas,Ratnagiri Gas and Power Private Ltd.,Maharashtra,2022-23,central,315.94
+oil-gas,Rithala Gas Power Plant,Delhi,2022-23,private,0.00
+oil-gas,Rokhia Gas Thermal Project,Tripura,2022-23,state,248.87
+oil-gas,Samalkot / Peddapuram Power Station Phase I,Andhra Pradesh,2022-23,private,0.00
+oil-gas,SUGEN Combined Cycle Power Plant,Gujarat,2022-23,private,1547.25
+oil-gas,Tripura (Monarchak) Gas based Combined Cycle Power Plant,Tripura,2022-23,central,747.19
+oil-gas,Tripura (Palatana) Combined Cycle Gas Turbine Power Plant,Tripura,2022-23,central,4936.23
+oil-gas,Trombay Unit 7 Gas Power Plant,Maharashtra,2022-23,private,622.70
+oil-gas,UNOSUGEN Combined Cycle Power Plant,Gujarat,2022-23,private,65.15
+oil-gas,Uran Gas Combined Cycle Gas Turbine,Maharashtra,2022-23,state,1490.92
+oil-gas,Utran Gas Based Power Station Combined Cycle Power Plant,Gujarat,2022-23,state,4.64
+oil-gas,Vadodara Station I (GIPCL) Combined Cycle Power Plant,Gujarat,2022-23,private,0.00
+oil-gas,Vadodara Station II (GIPCL) Combined Cycle Power Plant,Gujarat,2022-23,private,0.00
+oil-gas,Valantharavai Combined Cycle Gas Power Plant,Tamil Nadu,2022-23,private,0.00
+oil-gas,Valuthur Gas Turbine Power Station,Tamil Nadu,2022-23,state,1056.12
+oil-gas,Vijjeswaram Gas Power Plant,Andhra Pradesh,2022-23,private,365.34
+oil-gas,Agartala Gas Turbine Power Station,Tripura,2021-22,central,924.04
+oil-gas,Anta Gas Combined Cycle Gas Turbine Power Plant,Rajasthan,2021-22,central,106.14
+oil-gas,Auraiya Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2021-22,central,361.19
+oil-gas,Baramura Gas Thermal Project,Tripura,2021-22,state,234.21
+oil-gas,Basin Bridge Gas Turbine Power Station,Tamil Nadu,2021-22,state,0.00
+oil-gas,BSES Kochi Combined Cycle Gas Turbine Power Plant,Kerala,2021-22,private,0.00
+oil-gas,Dadri Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2021-22,central,787.30
+oil-gas,DGEN Mega Combined Cycle Gas Turbine Power Plant,Gujarat,2021-22,private,24.31
+oil-gas,Dholpur Combined Cycle Power Station,Rajasthan,2021-22,state,0.00
+oil-gas,Dhuvaran Gas Based Combined Cycle Power Plant,Gujarat,2021-22,state,267.85
+oil-gas,Essar Hazira Combined Cycle Gas Turbine Power Plant,Gujarat,2021-22,private,0.00
+oil-gas,Faridabad NTPC Gas Combined Cycle Gas Turbine Power Plant,Haryana,2021-22,central,120.30
+oil-gas,Gama Combined Cycle Power Plant,Uttarakhand,2021-22,private,362.59
+oil-gas,Gautami Gas Combined Cycle Gas Turbine Power Plant Stage- I,Andhra Pradesh,2021-22,private,0.00
+oil-gas,GMR Rajahmundry Energy Ltd.,Andhra Pradesh,2021-22,private,0.00
+oil-gas,GMR Vemagiri Combined Cycle Power Plant,Andhra Pradesh,2021-22,private,0.00
+oil-gas,Goa Combined Cycle Power Station,Goa,2021-22,private,0.00
+oil-gas,Godavari (Kakinada) Gas Combined Cycle Power Plant Phase I,Andhra Pradesh,2021-22,private,216.57
+oil-gas,GVK Jegurupadu Gas Combined Cycle Gas Turbine,Andhra Pradesh,2021-22,state,516.73
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant Ext.,Gujarat,2021-22,state,73.40
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2021-22,state,24.18
+oil-gas,I.P. Gas Turbine Power Station,Delhi,2021-22,state,220.62
+oil-gas,Jhanor-Gandhar Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2021-22,central,395.93
+oil-gas,Karaikal Gas Power Plant,Puducherry,2021-22,state,251.13
+oil-gas,Karuppur Combined Cycle Power Plant,Tamil Nadu,2021-22,private,199.78
+oil-gas,Kashipur Combined Cycle Power Plant Phase I,Uttarakhand,2021-22,private,649.73
+oil-gas,Kathalguri (Assam) Gas Combined Cycle Gas Turbine Power Plant,Assam,2021-22,central,1787.14
+oil-gas,Kawas Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2021-22,central,255.53
+oil-gas,Kayamkulam (Rajiv Gandhi) Gas Combined Cycle Power Plant,Kerala,2021-22,central,0.00
+oil-gas,Konaseema Combined Cycle Power Plant Phase I,Andhra Pradesh,2021-22,private,0.00
+oil-gas,Kovilkalappal (Thirumakotai) Gas Combined Cycle Gas Turbine Power Station,Tamil Nadu,2021-22,state,155.45
+oil-gas,Kuttalam Gas Turbine Power Station,Tamil Nadu,2021-22,state,361.91
+oil-gas,Lakwa Gas Turbine Power Station,Assam,2021-22,state,408.19
+oil-gas,Lakwa GT Replacement Power Project (LRPP ),Assam,2021-22,state,510.04
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase I,Andhra Pradesh,2021-22,private,376.21
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase II,Andhra Pradesh,2021-22,private,0.00
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase III,Andhra Pradesh,2021-22,private,0.00
+oil-gas,Mangaon Combined Cycle Power Plant,Maharashtra,2021-22,private,0.00
+oil-gas,Namrup Thermal Power Station (NTPS),Assam,2021-22,state,693.74
+oil-gas,Paguthan Combined Cycle Power Plant,Gujarat,2021-22,private,0.00
+oil-gas,Pampore Gas Turbine Station,Jammu and Kashmir,2021-22,state,0.00
+oil-gas,Pillaiperumalnallur (PPN) Power Plant Phase I,Tamil Nadu,2021-22,private,0.00
+oil-gas,Pipavav Combined Cycle Gas Turbine Power Plant,Gujarat,2021-22,state,139.82
+oil-gas,Pragati-I Combined Cycle Gas Power Station,Delhi,2021-22,state,1523.41
+oil-gas,Pragati-III Combined Cycle Gas Power Project,Delhi,2021-22,state,3204.54
+oil-gas,Ramgarh Gas Thermal Power Station,Rajasthan,2021-22,state,1392.87
+oil-gas,Ratnagiri Gas and Power Private Ltd.,Maharashtra,2021-22,central,3143.89
+oil-gas,Rithala Gas Power Plant,Delhi,2021-22,private,0.00
+oil-gas,Rokhia Gas Thermal Project,Tripura,2021-22,state,331.39
+oil-gas,Samalkot / Peddapuram Power Station Phase I,Andhra Pradesh,2021-22,private,0.00
+oil-gas,SUGEN Combined Cycle Power Plant,Gujarat,2021-22,private,4457.54
+oil-gas,Tripura (Monarchak) Gas based Combined Cycle Power Plant,Tripura,2021-22,central,717.98
+oil-gas,Tripura (Palatana) Combined Cycle Gas Turbine Power Plant,Tripura,2021-22,central,4124.65
+oil-gas,Trombay Unit 7 Gas Power Plant,Maharashtra,2021-22,private,910.37
+oil-gas,UNOSUGEN Combined Cycle Power Plant,Gujarat,2021-22,private,1373.62
+oil-gas,Uran Gas Combined Cycle Gas Turbine,Maharashtra,2021-22,state,2069.90
+oil-gas,Utran Gas Based Power Station Combined Cycle Power Plant,Gujarat,2021-22,state,279.95
+oil-gas,Vadodara Station I (GIPCL) Combined Cycle Power Plant,Gujarat,2021-22,private,61.72
+oil-gas,Vadodara Station II (GIPCL) Combined Cycle Power Plant,Gujarat,2021-22,private,0.00
+oil-gas,Valantharavai Combined Cycle Gas Power Plant,Tamil Nadu,2021-22,private,72.17
+oil-gas,Valuthur Gas Turbine Power Station,Tamil Nadu,2021-22,state,942.92
+oil-gas,Vijjeswaram Gas Power Plant,Andhra Pradesh,2021-22,private,984.82
+oil-gas,Adamtilla Combined Cycle Power Plant,Assam,2020-21,private,0.00
+oil-gas,Agartala Gas Turbine Power Station,Tripura,2020-21,central,880.05
+oil-gas,Anta Gas Combined Cycle Gas Turbine Power Plant,Rajasthan,2020-21,central,364.35
+oil-gas,Auraiya Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2020-21,central,687.42
+oil-gas,Baramura Gas Thermal Project,Tripura,2020-21,state,192.40
+oil-gas,Basin Bridge Gas Turbine Power Station,Tamil Nadu,2020-21,state,0.00
+oil-gas,Baskhandi Combined Cycle Power Plant,Assam,2020-21,private,0.00
+oil-gas,BSES Kochi Combined Cycle Gas Turbine Power Plant,Kerala,2020-21,private,0.00
+oil-gas,Dadri Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2020-21,central,1783.33
+oil-gas,DGEN Mega Combined Cycle Gas Turbine Power Plant,Gujarat,2020-21,private,1058.81
+oil-gas,Dholpur Combined Cycle Power Station,Rajasthan,2020-21,state,110.37
+oil-gas,Dhuvaran Gas Based Combined Cycle Power Plant,Gujarat,2020-21,state,1644.50
+oil-gas,Essar Hazira Combined Cycle Gas Turbine Power Plant,Gujarat,2020-21,private,0.00
+oil-gas,Faridabad NTPC Gas Combined Cycle Gas Turbine Power Plant,Haryana,2020-21,central,901.80
+oil-gas,Gama Combined Cycle Power Plant,Uttarakhand,2020-21,private,229.91
+oil-gas,Gautami Gas Combined Cycle Gas Turbine Power Plant Stage- I,Andhra Pradesh,2020-21,private,0.00
+oil-gas,GMR Rajahmundry Energy Ltd.,Andhra Pradesh,2020-21,private,0.00
+oil-gas,GMR Vemagiri Combined Cycle Power Plant,Andhra Pradesh,2020-21,private,0.00
+oil-gas,Goa Combined Cycle Power Station,Goa,2020-21,private,0.00
+oil-gas,Godavari (Kakinada) Gas Combined Cycle Power Plant Phase I,Andhra Pradesh,2020-21,private,419.28
+oil-gas,GVK Jegurupadu Gas Combined Cycle Gas Turbine,Andhra Pradesh,2020-21,state,652.17
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant Ext.,Gujarat,2020-21,state,1306.91
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2020-21,state,394.28
+oil-gas,I.P. Gas Turbine Power Station,Delhi,2020-21,state,458.58
+oil-gas,Jhanor-Gandhar Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2020-21,central,829.48
+oil-gas,Karaikal Gas Power Plant,Puducherry,2020-21,state,232.15
+oil-gas,Karuppur Combined Cycle Power Plant,Tamil Nadu,2020-21,private,270.45
+oil-gas,Kashipur Combined Cycle Power Plant Phase I,Uttarakhand,2020-21,private,492.06
+oil-gas,Kathalguri (Assam) Gas Combined Cycle Gas Turbine Power Plant,Assam,2020-21,central,1570.12
+oil-gas,Kawas Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2020-21,central,1028.90
+oil-gas,Kayamkulam (Rajiv Gandhi) Gas Combined Cycle Power Plant,Kerala,2020-21,central,101.41
+oil-gas,Konaseema Combined Cycle Power Plant Phase I,Andhra Pradesh,2020-21,private,0.00
+oil-gas,Kovilkalappal (Thirumakotai) Gas Combined Cycle Gas Turbine Power Station,Tamil Nadu,2020-21,state,271.30
+oil-gas,Kuttalam Gas Turbine Power Station,Tamil Nadu,2020-21,state,489.91
+oil-gas,Lakwa Gas Turbine Power Station,Assam,2020-21,state,440.62
+oil-gas,Lakwa GT Replacement Power Project (LRPP ),Assam,2020-21,state,478.93
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase I,Andhra Pradesh,2020-21,private,991.49
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase II,Andhra Pradesh,2020-21,private,0.00
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase III,Andhra Pradesh,2020-21,private,0.00
+oil-gas,Mangaon Combined Cycle Power Plant,Maharashtra,2020-21,private,0.00
+oil-gas,Namrup Thermal Power Station (NTPS),Assam,2020-21,state,231.73
+oil-gas,Paguthan Combined Cycle Power Plant,Gujarat,2020-21,private,0.00
+oil-gas,Pampore Gas Turbine Station,Jammu and Kashmir,2020-21,state,0.00
+oil-gas,Pillaiperumalnallur (PPN) Power Plant Phase I,Tamil Nadu,2020-21,private,2.01
+oil-gas,Pipavav Combined Cycle Gas Turbine Power Plant,Gujarat,2020-21,state,2713.89
+oil-gas,Pragati-I Combined Cycle Gas Power Station,Delhi,2020-21,state,1535.70
+oil-gas,Pragati-III Combined Cycle Gas Power Project,Delhi,2020-21,state,3309.73
+oil-gas,Ramgarh Gas Thermal Power Station,Rajasthan,2020-21,state,543.98
+oil-gas,Ratnagiri Gas and Power Private Ltd.,Maharashtra,2020-21,central,2573.85
+oil-gas,Rithala Gas Power Plant,Delhi,2020-21,private,0.00
+oil-gas,Rokhia Gas Thermal Project,Tripura,2020-21,state,347.86
+oil-gas,Samalkot / Peddapuram Power Station Phase I,Andhra Pradesh,2020-21,private,0.00
+oil-gas,SUGEN Combined Cycle Power Plant,Gujarat,2020-21,private,5986.88
+oil-gas,Tripura (Monarchak) Gas based Combined Cycle Power Plant,Tripura,2020-21,central,532.67
+oil-gas,Tripura (Palatana) Combined Cycle Gas Turbine Power Plant,Tripura,2020-21,central,5090.23
+oil-gas,Trombay Unit 7 Gas Power Plant,Maharashtra,2020-21,private,1381.61
+oil-gas,UNOSUGEN Combined Cycle Power Plant,Gujarat,2020-21,private,1929.13
+oil-gas,Uran Gas Combined Cycle Gas Turbine,Maharashtra,2020-21,state,2007.96
+oil-gas,Utran Gas Based Power Station Combined Cycle Power Plant,Gujarat,2020-21,state,1763.45
+oil-gas,Vadodara Station I (GIPCL) Combined Cycle Power Plant,Gujarat,2020-21,private,206.84
+oil-gas,Vadodara Station II (GIPCL) Combined Cycle Power Plant,Gujarat,2020-21,private,14.15
+oil-gas,Valantharavai Combined Cycle Gas Power Plant,Tamil Nadu,2020-21,private,212.87
+oil-gas,Valuthur Gas Turbine Power Station,Tamil Nadu,2020-21,state,1018.19
+oil-gas,Vijjeswaram Gas Power Plant,Andhra Pradesh,2020-21,private,1260.30
+oil-gas,Adamtilla Combined Cycle Power Plant,Assam,2019-20,private,0.00
+oil-gas,Agartala Gas Turbine Power Station,Tripura,2019-20,central,806.90
+oil-gas,Anta Gas Combined Cycle Gas Turbine Power Plant,Rajasthan,2019-20,central,302.14
+oil-gas,Auraiya Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2019-20,central,444.79
+oil-gas,Baramura Gas Thermal Project,Tripura,2019-20,state,240.31
+oil-gas,Basin Bridge Gas Turbine Power Station,Tamil Nadu,2019-20,state,0.00
+oil-gas,Baskhandi Combined Cycle Power Plant,Assam,2019-20,private,0.00
+oil-gas,BSES Kochi Combined Cycle Gas Turbine Power Plant,Kerala,2019-20,private,0.00
+oil-gas,Dadri Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2019-20,central,1851.75
+oil-gas,DGEN Mega Combined Cycle Gas Turbine Power Plant,Gujarat,2019-20,private,717.02
+oil-gas,Dholpur Combined Cycle Power Station,Rajasthan,2019-20,state,0.00
+oil-gas,Dhuvaran Gas Based Combined Cycle Power Plant,Gujarat,2019-20,state,838.81
+oil-gas,Essar Hazira Combined Cycle Gas Turbine Power Plant,Gujarat,2019-20,private,0.00
+oil-gas,Faridabad NTPC Gas Combined Cycle Gas Turbine Power Plant,Haryana,2019-20,central,555.16
+oil-gas,Gama Combined Cycle Power Plant,Uttarakhand,2019-20,private,628.85
+oil-gas,Gautami Gas Combined Cycle Gas Turbine Power Plant Stage- I,Andhra Pradesh,2019-20,private,0.00
+oil-gas,GMR Rajahmundry Energy Ltd.,Andhra Pradesh,2019-20,private,0.00
+oil-gas,GMR Vemagiri Combined Cycle Power Plant,Andhra Pradesh,2019-20,private,0.00
+oil-gas,Goa Combined Cycle Power Station,Goa,2019-20,private,0.00
+oil-gas,Godavari (Kakinada) Gas Combined Cycle Power Plant Phase I,Andhra Pradesh,2019-20,private,566.90
+oil-gas,GVK Jegurupadu Gas Combined Cycle Gas Turbine,Andhra Pradesh,2019-20,state,656.16
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant Ext.,Gujarat,2019-20,state,581.56
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2019-20,state,43.25
+oil-gas,I.P. Gas Turbine Power Station,Delhi,2019-20,state,501.54
+oil-gas,Jhanor-Gandhar Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2019-20,central,436.33
+oil-gas,Karaikal Gas Power Plant,Puducherry,2019-20,state,255.79
+oil-gas,Karuppur Combined Cycle Power Plant,Tamil Nadu,2019-20,private,795.28
+oil-gas,Kashipur Combined Cycle Power Plant Phase I,Uttarakhand,2019-20,private,1357.94
+oil-gas,Kathalguri (Assam) Gas Combined Cycle Gas Turbine Power Plant,Assam,2019-20,central,1704.12
+oil-gas,Kawas Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2019-20,central,1382.64
+oil-gas,Kayamkulam (Rajiv Gandhi) Gas Combined Cycle Power Plant,Kerala,2019-20,central,0.00
+oil-gas,Konaseema Combined Cycle Power Plant Phase I,Andhra Pradesh,2019-20,private,0.00
+oil-gas,Kovilkalappal (Thirumakotai) Gas Combined Cycle Gas Turbine Power Station,Tamil Nadu,2019-20,state,333.86
+oil-gas,Kuttalam Gas Turbine Power Station,Tamil Nadu,2019-20,state,133.88
+oil-gas,Lakwa Gas Turbine Power Station,Assam,2019-20,state,353.90
+oil-gas,Lakwa GT Replacement Power Project (LRPP ),Assam,2019-20,state,497.80
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase I,Andhra Pradesh,2019-20,private,776.25
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase II,Andhra Pradesh,2019-20,private,0.00
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase III,Andhra Pradesh,2019-20,private,0.00
+oil-gas,Mangaon Combined Cycle Power Plant,Maharashtra,2019-20,private,0.00
+oil-gas,Namrup Thermal Power Station (NTPS),Assam,2019-20,state,252.91
+oil-gas,Paguthan Combined Cycle Power Plant,Gujarat,2019-20,private,0.00
+oil-gas,Pampore Gas Turbine Station,Jammu and Kashmir,2019-20,state,0.00
+oil-gas,Pillaiperumalnallur (PPN) Power Plant Phase I,Tamil Nadu,2019-20,private,0.00
+oil-gas,Pipavav Combined Cycle Gas Turbine Power Plant,Gujarat,2019-20,state,539.94
+oil-gas,Pragati-I Combined Cycle Gas Power Station,Delhi,2019-20,state,1529.61
+oil-gas,Pragati-III Combined Cycle Gas Power Project,Delhi,2019-20,state,3983.96
+oil-gas,Ramgarh Gas Thermal Power Station,Rajasthan,2019-20,state,731.37
+oil-gas,Ratnagiri Gas and Power Private Ltd.,Maharashtra,2019-20,central,4263.72
+oil-gas,Rithala Gas Power Plant,Delhi,2019-20,private,0.00
+oil-gas,Rokhia Gas Thermal Project,Tripura,2019-20,state,447.31
+oil-gas,Samalkot / Peddapuram Power Station Phase I,Andhra Pradesh,2019-20,private,0.00
+oil-gas,SUGEN Combined Cycle Power Plant,Gujarat,2019-20,private,6003.35
+oil-gas,Tripura (Monarchak) Gas based Combined Cycle Power Plant,Tripura,2019-20,central,713.44
+oil-gas,Tripura (Palatana) Combined Cycle Gas Turbine Power Plant,Tripura,2019-20,central,3884.98
+oil-gas,Trombay Unit 7 Gas Power Plant,Maharashtra,2019-20,private,1136.96
+oil-gas,UNOSUGEN Combined Cycle Power Plant,Gujarat,2019-20,private,2010.04
+oil-gas,Uran Gas Combined Cycle Gas Turbine,Maharashtra,2019-20,state,2598.36
+oil-gas,Utran Gas Based Power Station Combined Cycle Power Plant,Gujarat,2019-20,state,746.90
+oil-gas,Vadodara Station I (GIPCL) Combined Cycle Power Plant,Gujarat,2019-20,private,203.00
+oil-gas,Vadodara Station II (GIPCL) Combined Cycle Power Plant,Gujarat,2019-20,private,12.58
+oil-gas,Valantharavai Combined Cycle Gas Power Plant,Tamil Nadu,2019-20,private,307.13
+oil-gas,Valuthur Gas Turbine Power Station,Tamil Nadu,2019-20,state,1299.84
+oil-gas,Vijjeswaram Gas Power Plant,Andhra Pradesh,2019-20,private,1014.31
+oil-gas,Adamtilla Combined Cycle Power Plant,Assam,2018-19,private,0.00
+oil-gas,Agartala Gas Turbine Power Station,Tripura,2018-19,central,650.63
+oil-gas,Anta Gas Combined Cycle Gas Turbine Power Plant,Rajasthan,2018-19,central,550.65
+oil-gas,Auraiya Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2018-19,central,544.96
+oil-gas,Baramura Gas Thermal Project,Tripura,2018-19,state,173.54
+oil-gas,Basin Bridge Gas Turbine Power Station,Tamil Nadu,2018-19,state,0.05
+oil-gas,Baskhandi Combined Cycle Power Plant,Assam,2018-19,private,0.00
+oil-gas,BSES Kochi Combined Cycle Gas Turbine Power Plant,Kerala,2018-19,private,0.00
+oil-gas,Dadri Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2018-19,central,1661.51
+oil-gas,DGEN Mega Combined Cycle Gas Turbine Power Plant,Gujarat,2018-19,private,0.70
+oil-gas,Dholpur Combined Cycle Power Station,Rajasthan,2018-19,state,20.92
+oil-gas,Dhuvaran Gas Based Combined Cycle Power Plant,Gujarat,2018-19,state,699.97
+oil-gas,Essar Hazira Combined Cycle Gas Turbine Power Plant,Gujarat,2018-19,private,0.00
+oil-gas,Faridabad NTPC Gas Combined Cycle Gas Turbine Power Plant,Haryana,2018-19,central,597.09
+oil-gas,Gama Combined Cycle Power Plant,Uttarakhand,2018-19,private,412.36
+oil-gas,Gautami Gas Combined Cycle Gas Turbine Power Plant Stage- I,Andhra Pradesh,2018-19,private,0.00
+oil-gas,GMR Rajahmundry Energy Ltd.,Andhra Pradesh,2018-19,private,0.00
+oil-gas,GMR Vemagiri Combined Cycle Power Plant,Andhra Pradesh,2018-19,private,0.00
+oil-gas,Goa Combined Cycle Power Station,Goa,2018-19,private,0.00
+oil-gas,Godavari (Kakinada) Gas Combined Cycle Power Plant Phase I,Andhra Pradesh,2018-19,private,1142.85
+oil-gas,GVK Jegurupadu Gas Combined Cycle Gas Turbine,Andhra Pradesh,2018-19,state,826.31
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant Ext.,Gujarat,2018-19,state,352.28
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2018-19,state,24.22
+oil-gas,I.P. Gas Turbine Power Station,Delhi,2018-19,state,599.63
+oil-gas,Jhanor-Gandhar Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2018-19,central,1573.91
+oil-gas,Karaikal Gas Power Plant,Puducherry,2018-19,state,229.88
+oil-gas,Karuppur Combined Cycle Power Plant,Tamil Nadu,2018-19,private,647.48
+oil-gas,Kashipur Combined Cycle Power Plant Phase I,Uttarakhand,2018-19,private,841.88
+oil-gas,Kathalguri (Assam) Gas Combined Cycle Gas Turbine Power Plant,Assam,2018-19,central,1639.49
+oil-gas,Kawas Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2018-19,central,2499.39
+oil-gas,Kayamkulam (Rajiv Gandhi) Gas Combined Cycle Power Plant,Kerala,2018-19,central,0.81
+oil-gas,Konaseema Combined Cycle Power Plant Phase I,Andhra Pradesh,2018-19,private,0.00
+oil-gas,Kovilkalappal (Thirumakotai) Gas Combined Cycle Gas Turbine Power Station,Tamil Nadu,2018-19,state,315.36
+oil-gas,Kuttalam Gas Turbine Power Station,Tamil Nadu,2018-19,state,410.27
+oil-gas,Lakwa Gas Turbine Power Station,Assam,2018-19,state,464.66
+oil-gas,Lakwa GT Replacement Power Project (LRPP ),Assam,2018-19,state,287.86
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase I,Andhra Pradesh,2018-19,private,1667.06
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase II,Andhra Pradesh,2018-19,private,0.00
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase III,Andhra Pradesh,2018-19,private,0.00
+oil-gas,Mangaon Combined Cycle Power Plant,Maharashtra,2018-19,private,0.00
+oil-gas,Namrup Thermal Power Station (NTPS),Assam,2018-19,state,314.40
+oil-gas,Paguthan Combined Cycle Power Plant,Gujarat,2018-19,private,293.98
+oil-gas,Pampore Gas Turbine Station,Jammu and Kashmir,2018-19,state,0.00
+oil-gas,Pillaiperumalnallur (PPN) Power Plant Phase I,Tamil Nadu,2018-19,private,0.00
+oil-gas,Pipavav Combined Cycle Gas Turbine Power Plant,Gujarat,2018-19,state,493.76
+oil-gas,Pragati-I Combined Cycle Gas Power Station,Delhi,2018-19,state,1515.62
+oil-gas,Pragati-III Combined Cycle Gas Power Project,Delhi,2018-19,state,3620.46
+oil-gas,Ramgarh Gas Thermal Power Station,Rajasthan,2018-19,state,998.09
+oil-gas,Ratnagiri Gas and Power Private Ltd.,Maharashtra,2018-19,central,4465.63
+oil-gas,Rithala Gas Power Plant,Delhi,2018-19,private,0.00
+oil-gas,Rokhia Gas Thermal Project,Tripura,2018-19,state,414.03
+oil-gas,Samalkot / Peddapuram Power Station Phase I,Andhra Pradesh,2018-19,private,0.00
+oil-gas,SUGEN Combined Cycle Power Plant,Gujarat,2018-19,private,6237.45
+oil-gas,Tripura (Monarchak) Gas based Combined Cycle Power Plant,Tripura,2018-19,central,681.27
+oil-gas,Tripura (Palatana) Combined Cycle Gas Turbine Power Plant,Tripura,2018-19,central,4711.38
+oil-gas,Trombay Unit 7 Gas Power Plant,Maharashtra,2018-19,private,1410.82
+oil-gas,UNOSUGEN Combined Cycle Power Plant,Gujarat,2018-19,private,0.00
+oil-gas,Uran Gas Combined Cycle Gas Turbine,Maharashtra,2018-19,state,2574.69
+oil-gas,Utran Gas Based Power Station Combined Cycle Power Plant,Gujarat,2018-19,state,418.22
+oil-gas,Vadodara Station I (GIPCL) Combined Cycle Power Plant,Gujarat,2018-19,private,202.85
+oil-gas,Vadodara Station II (GIPCL) Combined Cycle Power Plant,Gujarat,2018-19,private,0.00
+oil-gas,Valantharavai Combined Cycle Gas Power Plant,Tamil Nadu,2018-19,private,352.86
+oil-gas,Valuthur Gas Turbine Power Station,Tamil Nadu,2018-19,state,1178.03
+oil-gas,Vijjeswaram Gas Power Plant,Andhra Pradesh,2018-19,private,1114.49
+oil-gas,Adamtilla Combined Cycle Power Plant,Assam,2017-18,private,0.00
+oil-gas,Agartala Gas Turbine Power Station,Tripura,2017-18,central,688.27
+oil-gas,Anta Gas Combined Cycle Gas Turbine Power Plant,Rajasthan,2017-18,central,450.94
+oil-gas,Auraiya Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2017-18,central,376.97
+oil-gas,Baramura Gas Thermal Project,Tripura,2017-18,state,177.88
+oil-gas,Basin Bridge Gas Turbine Power Station,Tamil Nadu,2017-18,state,6.12
+oil-gas,Baskhandi Combined Cycle Power Plant,Assam,2017-18,private,0.00
+oil-gas,BSES Kochi Combined Cycle Gas Turbine Power Plant,Kerala,2017-18,private,42.65
+oil-gas,Dadri Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2017-18,central,1627.81
+oil-gas,DGEN Mega Combined Cycle Gas Turbine Power Plant,Gujarat,2017-18,private,0.00
+oil-gas,Dholpur Combined Cycle Power Station,Rajasthan,2017-18,state,247.72
+oil-gas,Dhuvaran Gas Based Combined Cycle Power Plant,Gujarat,2017-18,state,595.78
+oil-gas,Essar Hazira Combined Cycle Gas Turbine Power Plant,Gujarat,2017-18,private,0.00
+oil-gas,Faridabad NTPC Gas Combined Cycle Gas Turbine Power Plant,Haryana,2017-18,central,837.38
+oil-gas,Gama Combined Cycle Power Plant,Uttarakhand,2017-18,private,560.66
+oil-gas,Gautami Gas Combined Cycle Gas Turbine Power Plant Stage- I,Andhra Pradesh,2017-18,private,0.00
+oil-gas,GMR Rajahmundry Energy Ltd.,Andhra Pradesh,2017-18,private,0.00
+oil-gas,GMR Vemagiri Combined Cycle Power Plant,Andhra Pradesh,2017-18,private,0.00
+oil-gas,Goa Combined Cycle Power Station,Goa,2017-18,private,0.00
+oil-gas,Godavari (Kakinada) Gas Combined Cycle Power Plant Phase I,Andhra Pradesh,2017-18,private,572.40
+oil-gas,GVK Jegurupadu Gas Combined Cycle Gas Turbine,Andhra Pradesh,2017-18,state,1065.12
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant Ext.,Gujarat,2017-18,state,193.33
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2017-18,state,2.48
+oil-gas,I.P. Gas Turbine Power Station,Delhi,2017-18,state,578.80
+oil-gas,Jhanor-Gandhar Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2017-18,central,3111.93
+oil-gas,Karaikal Gas Power Plant,Puducherry,2017-18,state,226.45
+oil-gas,Karuppur Combined Cycle Power Plant,Tamil Nadu,2017-18,private,480.13
+oil-gas,Kashipur Combined Cycle Power Plant Phase I,Uttarakhand,2017-18,private,1062.33
+oil-gas,Kathalguri (Assam) Gas Combined Cycle Gas Turbine Power Plant,Assam,2017-18,central,1598.25
+oil-gas,Kawas Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2017-18,central,2405.90
+oil-gas,Kayamkulam (Rajiv Gandhi) Gas Combined Cycle Power Plant,Kerala,2017-18,central,4.19
+oil-gas,Konaseema Combined Cycle Power Plant Phase I,Andhra Pradesh,2017-18,private,0.00
+oil-gas,Kovilkalappal (Thirumakotai) Gas Combined Cycle Gas Turbine Power Station,Tamil Nadu,2017-18,state,302.47
+oil-gas,Kuttalam Gas Turbine Power Station,Tamil Nadu,2017-18,state,349.49
+oil-gas,Lakwa Gas Turbine Power Station,Assam,2017-18,state,657.03
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase I,Andhra Pradesh,2017-18,private,660.70
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase II,Andhra Pradesh,2017-18,private,0.00
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase III,Andhra Pradesh,2017-18,private,0.00
+oil-gas,Mangaon Combined Cycle Power Plant,Maharashtra,2017-18,private,0.00
+oil-gas,Namrup Thermal Power Station (NTPS),Assam,2017-18,state,326.86
+oil-gas,Paguthan Combined Cycle Power Plant,Gujarat,2017-18,private,434.57
+oil-gas,Pampore Gas Turbine Station,Jammu and Kashmir,2017-18,state,0.00
+oil-gas,Pillaiperumalnallur (PPN) Power Plant Phase I,Tamil Nadu,2017-18,private,0.00
+oil-gas,Pipavav Combined Cycle Gas Turbine Power Plant,Gujarat,2017-18,state,168.06
+oil-gas,Pragati-I Combined Cycle Gas Power Station,Delhi,2017-18,state,1955.40
+oil-gas,Pragati-III Combined Cycle Gas Power Project,Delhi,2017-18,state,2957.53
+oil-gas,Ramgarh Gas Thermal Power Station,Rajasthan,2017-18,state,1448.68
+oil-gas,Ratnagiri Gas and Power Private Ltd.,Maharashtra,2017-18,central,4501.03
+oil-gas,Rithala Gas Power Plant,Delhi,2017-18,private,0.00
+oil-gas,Rokhia Gas Thermal Project,Tripura,2017-18,state,408.43
+oil-gas,Samalkot / Peddapuram Power Station Phase I,Andhra Pradesh,2017-18,private,0.00
+oil-gas,SUGEN Combined Cycle Power Plant,Gujarat,2017-18,private,6522.62
+oil-gas,Tripura (Monarchak) Gas based Combined Cycle Power Plant,Tripura,2017-18,central,671.53
+oil-gas,Tripura (Palatana) Combined Cycle Gas Turbine Power Plant,Tripura,2017-18,central,4053.16
+oil-gas,Trombay Unit 7 Gas Power Plant,Maharashtra,2017-18,private,1353.66
+oil-gas,UNOSUGEN Combined Cycle Power Plant,Gujarat,2017-18,private,0.00
+oil-gas,Uran Gas Combined Cycle Gas Turbine,Maharashtra,2017-18,state,3211.70
+oil-gas,Utran Gas Based Power Station Combined Cycle Power Plant,Gujarat,2017-18,state,257.59
+oil-gas,Vadodara Station I (GIPCL) Combined Cycle Power Plant,Gujarat,2017-18,private,196.18
+oil-gas,Vadodara Station II (GIPCL) Combined Cycle Power Plant,Gujarat,2017-18,private,35.56
+oil-gas,Valantharavai Combined Cycle Gas Power Plant,Tamil Nadu,2017-18,private,371.45
+oil-gas,Valuthur Gas Turbine Power Station,Tamil Nadu,2017-18,state,1258.51
+oil-gas,Vijjeswaram Gas Power Plant,Andhra Pradesh,2017-18,private,1192.04
+oil-gas,Adamtilla Combined Cycle Power Plant,Assam,2016-17,private,0.00
+oil-gas,Agartala Gas Turbine Power Station,Tripura,2016-17,central,904.58
+oil-gas,Anta Gas Combined Cycle Gas Turbine Power Plant,Rajasthan,2016-17,central,695.18
+oil-gas,Auraiya Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2016-17,central,535.67
+oil-gas,Baramura Gas Thermal Project,Tripura,2016-17,state,188.25
+oil-gas,Basin Bridge Gas Turbine Power Station,Tamil Nadu,2016-17,state,10.98
+oil-gas,Baskhandi Combined Cycle Power Plant,Assam,2016-17,private,0.00
+oil-gas,BSES Kochi Combined Cycle Gas Turbine Power Plant,Kerala,2016-17,private,0.00
+oil-gas,Dadri Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2016-17,central,2236.96
+oil-gas,DGEN Mega Combined Cycle Gas Turbine Power Plant,Gujarat,2016-17,private,1.02
+oil-gas,Dholpur Combined Cycle Power Station,Rajasthan,2016-17,state,124.84
+oil-gas,Dhuvaran Gas Based Combined Cycle Power Plant,Gujarat,2016-17,state,306.76
+oil-gas,Essar Hazira Combined Cycle Gas Turbine Power Plant,Gujarat,2016-17,private,0.00
+oil-gas,Faridabad NTPC Gas Combined Cycle Gas Turbine Power Plant,Haryana,2016-17,central,1034.05
+oil-gas,Gama Combined Cycle Power Plant,Uttarakhand,2016-17,private,492.43
+oil-gas,Gautami Gas Combined Cycle Gas Turbine Power Plant Stage- I,Andhra Pradesh,2016-17,private,0.00
+oil-gas,GMR Rajahmundry Energy Ltd.,Andhra Pradesh,2016-17,private,643.51
+oil-gas,GMR Vemagiri Combined Cycle Power Plant,Andhra Pradesh,2016-17,private,305.33
+oil-gas,Goa Combined Cycle Power Station,Goa,2016-17,private,0.00
+oil-gas,Godavari (Kakinada) Gas Combined Cycle Power Plant Phase I,Andhra Pradesh,2016-17,private,1008.75
+oil-gas,GVK Jegurupadu Gas Combined Cycle Gas Turbine,Andhra Pradesh,2016-17,state,999.21
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant Ext.,Gujarat,2016-17,state,230.06
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2016-17,state,24.32
+oil-gas,I.P. Gas Turbine Power Station,Delhi,2016-17,state,695.52
+oil-gas,Jhanor-Gandhar Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2016-17,central,2358.82
+oil-gas,Karaikal Gas Power Plant,Puducherry,2016-17,state,246.84
+oil-gas,Karuppur Combined Cycle Power Plant,Tamil Nadu,2016-17,private,478.97
+oil-gas,Kashipur Combined Cycle Power Plant Phase I,Uttarakhand,2016-17,private,476.58
+oil-gas,Kathalguri (Assam) Gas Combined Cycle Gas Turbine Power Plant,Assam,2016-17,central,1572.63
+oil-gas,Kawas Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2016-17,central,1718.18
+oil-gas,Kayamkulam (Rajiv Gandhi) Gas Combined Cycle Power Plant,Kerala,2016-17,central,15.40
+oil-gas,Konaseema Combined Cycle Power Plant Phase I,Andhra Pradesh,2016-17,private,0.00
+oil-gas,Kovilkalappal (Thirumakotai) Gas Combined Cycle Gas Turbine Power Station,Tamil Nadu,2016-17,state,348.00
+oil-gas,Kuttalam Gas Turbine Power Station,Tamil Nadu,2016-17,state,380.17
+oil-gas,Lakwa Gas Turbine Power Station,Assam,2016-17,state,888.73
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase I,Andhra Pradesh,2016-17,private,850.27
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase II,Andhra Pradesh,2016-17,private,157.32
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase III,Andhra Pradesh,2016-17,private,1266.11
+oil-gas,Mangaon Combined Cycle Power Plant,Maharashtra,2016-17,private,215.44
+oil-gas,Namrup Thermal Power Station (NTPS),Assam,2016-17,state,354.88
+oil-gas,Paguthan Combined Cycle Power Plant,Gujarat,2016-17,private,280.62
+oil-gas,Pampore Gas Turbine Station,Jammu and Kashmir,2016-17,state,0.00
+oil-gas,Pillaiperumalnallur (PPN) Power Plant Phase I,Tamil Nadu,2016-17,private,189.35
+oil-gas,Pipavav Combined Cycle Gas Turbine Power Plant,Gujarat,2016-17,state,229.99
+oil-gas,Pragati-I Combined Cycle Gas Power Station,Delhi,2016-17,state,1805.40
+oil-gas,Pragati-III Combined Cycle Gas Power Project,Delhi,2016-17,state,2047.49
+oil-gas,Ramgarh Gas Thermal Power Station,Rajasthan,2016-17,state,1425.72
+oil-gas,Ratnagiri Gas and Power Private Ltd.,Maharashtra,2016-17,central,4557.72
+oil-gas,Rithala Gas Power Plant,Delhi,2016-17,private,0.00
+oil-gas,Rokhia Gas Thermal Project,Tripura,2016-17,state,435.94
+oil-gas,Samalkot / Peddapuram Power Station Phase I,Andhra Pradesh,2016-17,private,0.00
+oil-gas,SUGEN Combined Cycle Power Plant,Gujarat,2016-17,private,4771.50
+oil-gas,Tripura (Monarchak) Gas based Combined Cycle Power Plant,Tripura,2016-17,central,172.05
+oil-gas,Tripura (Palatana) Combined Cycle Gas Turbine Power Plant,Tripura,2016-17,central,4173.07
+oil-gas,Trombay Unit 7 Gas Power Plant,Maharashtra,2016-17,private,1413.14
+oil-gas,UNOSUGEN Combined Cycle Power Plant,Gujarat,2016-17,private,0.00
+oil-gas,Uran Gas Combined Cycle Gas Turbine,Maharashtra,2016-17,state,3294.56
+oil-gas,Utran Gas Based Power Station Combined Cycle Power Plant,Gujarat,2016-17,state,157.14
+oil-gas,Vadodara Station I (GIPCL) Combined Cycle Power Plant,Gujarat,2016-17,private,203.42
+oil-gas,Vadodara Station II (GIPCL) Combined Cycle Power Plant,Gujarat,2016-17,private,135.09
+oil-gas,Valantharavai Combined Cycle Gas Power Plant,Tamil Nadu,2016-17,private,378.18
+oil-gas,Valuthur Gas Turbine Power Station,Tamil Nadu,2016-17,state,966.71
+oil-gas,Vatva Combined Cycle Power Plant,Gujarat,2016-17,private,0.00
+oil-gas,Vijjeswaram Gas Power Plant,Andhra Pradesh,2016-17,private,691.10
+oil-gas,Adamtilla Combined Cycle Power Plant,Assam,2015-16,private,0.00
+oil-gas,Agartala Gas Turbine Power Station,Tripura,2015-16,central,763.64
+oil-gas,Anta Gas Combined Cycle Gas Turbine Power Plant,Rajasthan,2015-16,central,941.97
+oil-gas,Auraiya Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2015-16,central,1511.32
+oil-gas,Baramura Gas Thermal Project,Tripura,2015-16,state,232.92
+oil-gas,Basin Bridge Gas Turbine Power Station,Tamil Nadu,2015-16,state,8.72
+oil-gas,Baskhandi Combined Cycle Power Plant,Assam,2015-16,private,0.00
+oil-gas,BSES Kochi Combined Cycle Gas Turbine Power Plant,Kerala,2015-16,private,0.00
+oil-gas,Dadri Combined Cycle Gas Turbine Power Plant,Uttar Pradesh,2015-16,central,2999.99
+oil-gas,DGEN Mega Combined Cycle Gas Turbine Power Plant,Gujarat,2015-16,private,2731.31
+oil-gas,Dholpur Combined Cycle Power Station,Rajasthan,2015-16,state,328.38
+oil-gas,Dhuvaran Gas Based Combined Cycle Power Plant,Gujarat,2015-16,state,416.44
+oil-gas,Essar Hazira Combined Cycle Gas Turbine Power Plant,Gujarat,2015-16,private,0.00
+oil-gas,Faridabad NTPC Gas Combined Cycle Gas Turbine Power Plant,Haryana,2015-16,central,1100.64
+oil-gas,Gautami Gas Combined Cycle Gas Turbine Power Plant Stage- I,Andhra Pradesh,2015-16,private,104.33
+oil-gas,GMR Rajahmundry Energy Ltd.,Andhra Pradesh,2015-16,private,589.64
+oil-gas,GMR Vemagiri Combined Cycle Power Plant,Andhra Pradesh,2015-16,private,620.46
+oil-gas,Goa Combined Cycle Power Station,Goa,2015-16,private,0.00
+oil-gas,Godavari (Kakinada) Gas Combined Cycle Power Plant Phase I,Andhra Pradesh,2015-16,private,552.67
+oil-gas,GVK Jegurupadu Gas Combined Cycle Gas Turbine,Andhra Pradesh,2015-16,state,869.66
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant Ext.,Gujarat,2015-16,state,0.00
+oil-gas,Hazira GSEG Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2015-16,state,143.53
+oil-gas,I.P. Gas Turbine Power Station,Delhi,2015-16,state,467.17
+oil-gas,Jhanor-Gandhar Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2015-16,central,961.51
+oil-gas,Karaikal Gas Power Plant,Puducherry,2015-16,state,227.59
+oil-gas,Karuppur Combined Cycle Power Plant,Tamil Nadu,2015-16,private,632.85
+oil-gas,Kathalguri (Assam) Gas Combined Cycle Gas Turbine Power Plant,Assam,2015-16,central,1758.83
+oil-gas,Kawas Gas Combined Cycle Gas Turbine Power Plant,Gujarat,2015-16,central,1212.39
+oil-gas,Kayamkulam (Rajiv Gandhi) Gas Combined Cycle Power Plant,Kerala,2015-16,central,142.75
+oil-gas,Konaseema Combined Cycle Power Plant Phase I,Andhra Pradesh,2015-16,private,0.00
+oil-gas,Kovilkalappal (Thirumakotai) Gas Combined Cycle Gas Turbine Power Station,Tamil Nadu,2015-16,state,399.10
+oil-gas,Kuttalam Gas Turbine Power Station,Tamil Nadu,2015-16,state,564.24
+oil-gas,Lakwa Gas Turbine Power Station,Assam,2015-16,state,947.86
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase I,Andhra Pradesh,2015-16,private,484.50
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase II,Andhra Pradesh,2015-16,private,972.02
+oil-gas,Lanco Kondapalli Combined Cycle Gas Turbine Power Plant Phase III,Andhra Pradesh,2015-16,private,615.55
+oil-gas,Namrup Thermal Power Station (NTPS),Assam,2015-16,state,507.63
+oil-gas,Paguthan Combined Cycle Power Plant,Gujarat,2015-16,private,898.37
+oil-gas,Pampore Gas Turbine Station,Jammu and Kashmir,2015-16,state,0.00
+oil-gas,Pillaiperumalnallur (PPN) Power Plant Phase I,Tamil Nadu,2015-16,private,150.76
+oil-gas,Pipavav Combined Cycle Gas Turbine Power Plant,Gujarat,2015-16,state,114.75
+oil-gas,Pragati-I Combined Cycle Gas Power Station,Delhi,2015-16,state,1539.34
+oil-gas,Pragati-III Combined Cycle Gas Power Project,Delhi,2015-16,state,1911.55
+oil-gas,Ramgarh Gas Thermal Power Station,Rajasthan,2015-16,state,1564.51
+oil-gas,Ratnagiri Gas and Power Private Ltd.,Maharashtra,2015-16,central,1233.67
+oil-gas,Rithala Gas Power Plant,Delhi,2015-16,private,0.00
+oil-gas,Rokhia Gas Thermal Project,Tripura,2015-16,state,506.30
+oil-gas,Samalkot / Peddapuram Power Station Phase I,Andhra Pradesh,2015-16,private,25.00
+oil-gas,SUGEN Combined Cycle Power Plant,Gujarat,2015-16,private,3512.11
+oil-gas,Tripura (Monarchak) Gas based Combined Cycle Power Plant,Tripura,2015-16,central,127.06
+oil-gas,Tripura (Palatana) Combined Cycle Gas Turbine Power Plant,Tripura,2015-16,central,3479.46
+oil-gas,Trombay Unit 7 Gas Power Plant,Maharashtra,2015-16,private,1179.74
+oil-gas,UNOSUGEN Combined Cycle Power Plant,Gujarat,2015-16,private,876.14
+oil-gas,Uran Gas Combined Cycle Gas Turbine,Maharashtra,2015-16,state,2886.50
+oil-gas,Utran Gas Based Power Station Combined Cycle Power Plant,Gujarat,2015-16,state,1271.97
+oil-gas,Vadodara Station I (GIPCL) Combined Cycle Power Plant,Gujarat,2015-16,private,181.59
+oil-gas,Vadodara Station II (GIPCL) Combined Cycle Power Plant,Gujarat,2015-16,private,235.87
+oil-gas,Valantharavai Combined Cycle Gas Power Plant,Tamil Nadu,2015-16,private,195.09
+oil-gas,Valuthur Gas Turbine Power Station,Tamil Nadu,2015-16,state,721.02
+oil-gas,Vatva Combined Cycle Power Plant,Gujarat,2015-16,private,0.00
+oil-gas,Vijjeswaram Gas Power Plant,Andhra Pradesh,2015-16,private,701.68
+,,,,,
+"Copyright © 2025, NITI Aayog",,,,,
+https://iced.niti.gov.in,,,,,
+"The information on this platform is mainly taken from official sources. However, in some cases, a few assumptions have been made and some data derived or assumed and is given in the detailed. While we believe that the data is reliable and adequately comprehensive, NITI Aayog ICED does not take guarantee that such information is in all respects accurate. NITI Aayog ICED does not accept any liability for any consequences resulting from the use of this data.sss",,,,,
